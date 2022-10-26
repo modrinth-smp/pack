@@ -6,6 +6,11 @@ hash = "8c34fca924fdd83cd25f10f53329725d711da0a594abb1f1294f5a8ab35821bc"
 metafile = true
 
 [[files]]
+file = "mods/ears.toml"
+hash = "2440a3dbb326c4993cb00d5619581017cc783981f8cbaf8ab53bd400d1e5bbf5"
+metafile = true
+
+[[files]]
 file = "mods/ebe.toml"
 hash = "b668875d7f22033e43efeef4c1772f8567d6b33b06f7b16e17ccb3bbcb23dc47"
 metafile = true
@@ -31,6 +36,11 @@ hash = "f8cf32a9a4872c9c66312237e1d12bd6dd427ebce1686cd2c499991a86f0ad7e"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.toml"
+hash = "4c51026ac95600af08a5b1f1d2a380609d0e74f374ce38cfd30e9dbead294838"
+metafile = true
+
+[[files]]
 file = "mods/qsl.toml"
 hash = "b8b8a60a1da87bb84af8236288d98b307f156551435bceceabbc61bb8fef0cd1"
 metafile = true
@@ -38,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.toml"
 hash = "2eea9c72e61a0e463073f5e3121a88c31fa9a6eb61207e397ec577747167ef2f"
+metafile = true
+
+[[files]]
+file = "mods/sizeshiftingpotions.toml"
+hash = "2ae260d86c986b23a703bf77623c26f7c33f73b2acbe976ecb24a5ec52039adf"
 metafile = true
 
 [[files]]
