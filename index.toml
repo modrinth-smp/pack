@@ -16,6 +16,15 @@ hash = "b668875d7f22033e43efeef4c1772f8567d6b33b06f7b16e17ccb3bbcb23dc47"
 metafile = true
 
 [[files]]
+file = "mods/emi.toml"
+hash = "1428adfaa0d88e445ace318b2b29102fdb220709d70fe619fffaf5fdd8c59fa3"
+metafile = true
+
+[[files]]
+file = "mods/extraorigins-1.18-12.jar"
+hash = "1cbab1c32b96a8aabae5582b70d3fed4a2fb87c8675022443fd28ed9d7ccb237"
+
+[[files]]
 file = "mods/indium.toml"
 hash = "fdebc54ee80be90757fae74011431710cf07d1df5ffaf81678a5c2c8f2d32a2b"
 metafile = true
