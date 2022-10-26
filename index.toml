@@ -9,6 +9,10 @@ file = "mods/EnchantmentDescriptions-Fabric-1.18.2-10.0.9.jar"
 hash = "07a125a46b33b23909c90250be3c73733ec331a9214938062f20da74a218d37f"
 
 [[files]]
+file = "mods/TerraBlender-fabric-1.18.2-1.2.0.126.jar"
+hash = "f788191a313a9833431e90c29525712c4abf5ff84347ac203562fee5836e8e3c"
+
+[[files]]
 file = "mods/animatica.toml"
 hash = "471190b2467d200f034d7f8b38ac932cb76082724439fa500dce4041a431b1f2"
 metafile = true
@@ -117,6 +121,11 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.toml"
+hash = "c7328d340eb29d6b5fc33a67ae094f2ef4310f7128731818e45eef0a1821dfae"
+metafile = true
+
+[[files]]
 file = "mods/impaled-1.1.3.jar"
 hash = "cde6be9426e3822a831731a5888632993897b3154f787d5167f703e9cb9b9306"
 
@@ -178,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.toml"
 hash = "4c51026ac95600af08a5b1f1d2a380609d0e74f374ce38cfd30e9dbead294838"
+metafile = true
+
+[[files]]
+file = "mods/playerex.toml"
+hash = "7eb35d12afe2ac3c10d86565432bc1461f90605c66ea04943b61c48dc7225512"
 metafile = true
 
 [[files]]
