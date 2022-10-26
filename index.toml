@@ -16,6 +16,11 @@ hash = "eca4f4b015ce8aa02c9fd68959e067894967744f3602f44ca24e93c21a0cb39f"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.toml"
+hash = "bd1682a96d36541581d636eb8bb9438c2276a175d42cc9db1d7dc007664d5353"
+metafile = true
+
+[[files]]
 file = "mods/cem.toml"
 hash = "727c319290b015a46f54f379fdb32b1a8eeb649c85bb7409fe3b9ffd3ebe5d22"
 metafile = true
@@ -54,6 +59,10 @@ metafile = true
 file = "mods/emi.toml"
 hash = "1428adfaa0d88e445ace318b2b29102fdb220709d70fe619fffaf5fdd8c59fa3"
 metafile = true
+
+[[files]]
+file = "mods/enchancement-1.18-18.jar"
+hash = "851e8188ca056956daa75d79af9e80ed78122ef94705b1a4994518f03a6c2e98"
 
 [[files]]
 file = "mods/entityculling.toml"
@@ -187,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "99f9628800ccabd189b9bb28859f01caaf9ad672f247ae875e3eaa5f965f9406"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.toml"
+hash = "3fdc9a7558c912db84c2b62845896e74a1633450a0d2a0721bce6a382b842213"
 metafile = true
 
 [[files]]
