@@ -6,6 +6,11 @@ hash = "8c34fca924fdd83cd25f10f53329725d711da0a594abb1f1294f5a8ab35821bc"
 metafile = true
 
 [[files]]
+file = "mods/ebe.toml"
+hash = "b668875d7f22033e43efeef4c1772f8567d6b33b06f7b16e17ccb3bbcb23dc47"
+metafile = true
+
+[[files]]
 file = "mods/iris.toml"
 hash = "689beb7c10f85f12f08d2b5198e02c8ef72bf3a5372e390d76c7412cbc807296"
 metafile = true
@@ -16,8 +21,23 @@ hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.toml"
+hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
+metafile = true
+
+[[files]]
+file = "mods/origins.toml"
+hash = "f8cf32a9a4872c9c66312237e1d12bd6dd427ebce1686cd2c499991a86f0ad7e"
+metafile = true
+
+[[files]]
 file = "mods/qsl.toml"
 hash = "b8b8a60a1da87bb84af8236288d98b307f156551435bceceabbc61bb8fef0cd1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "2eea9c72e61a0e463073f5e3121a88c31fa9a6eb61207e397ec577747167ef2f"
 metafile = true
 
 [[files]]
