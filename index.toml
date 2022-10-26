@@ -1,8 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Bookshelf-Fabric-1.18.2-13.2.50.jar"
+hash = "b9a3025f657a483ef68e3b10bb6a8eb18b7196c671f05b022f15fe4d25cffc69"
+
+[[files]]
+file = "mods/EnchantmentDescriptions-Fabric-1.18.2-10.0.9.jar"
+hash = "07a125a46b33b23909c90250be3c73733ec331a9214938062f20da74a218d37f"
+
+[[files]]
 file = "mods/animatica.toml"
 hash = "471190b2467d200f034d7f8b38ac932cb76082724439fa500dce4041a431b1f2"
+metafile = true
+
+[[files]]
+file = "mods/arch-ex.toml"
+hash = "e305831d1a08cdf6205c34763e2362817da21723a917a00858e5af33225d575f"
 metafile = true
 
 [[files]]
@@ -99,6 +112,10 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
+file = "mods/impaled-1.1.3.jar"
+hash = "cde6be9426e3822a831731a5888632993897b3154f787d5167f703e9cb9b9306"
+
+[[files]]
 file = "mods/indium.toml"
 hash = "fdebc54ee80be90757fae74011431710cf07d1df5ffaf81678a5c2c8f2d32a2b"
 metafile = true
@@ -169,6 +186,10 @@ hash = "b8b8a60a1da87bb84af8236288d98b307f156551435bceceabbc61bb8fef0cd1"
 metafile = true
 
 [[files]]
+file = "mods/ratsmischief-1.3.7.jar"
+hash = "748ebaa4bad60384114d41ddc9c70e5a72a40f698aa5a636e4ae2f3883a36f5b"
+
+[[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "2ece972fd1306a38ca278d9da23656c73bc103df57709a4bdac0a0271a646f34"
 metafile = true
@@ -194,6 +215,11 @@ hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
 
 [[files]]
+file = "mods/solid_mobs.toml"
+hash = "6c973459d122bcc1d3b8d97e03d17faf7620291e78de58bba886b6baa1f5bafb"
+metafile = true
+
+[[files]]
 file = "mods/starlight.toml"
 hash = "99f9628800ccabd189b9bb28859f01caaf9ad672f247ae875e3eaa5f965f9406"
 metafile = true
@@ -206,4 +232,9 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.toml"
 hash = "54f57765ec22a3c0afc5b3071cc8868c4f62a8aa2a75afd987d138875cb49938"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.toml"
+hash = "32fb3d990a13819f8be435e135f92ba262aa455209f019852b05d2befb54e344"
 metafile = true
