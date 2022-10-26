@@ -160,6 +160,11 @@ hash = "b8b8a60a1da87bb84af8236288d98b307f156551435bceceabbc61bb8fef0cd1"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "2ece972fd1306a38ca278d9da23656c73bc103df57709a4bdac0a0271a646f34"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.toml"
 hash = "2eea9c72e61a0e463073f5e3121a88c31fa9a6eb61207e397ec577747167ef2f"
 metafile = true
