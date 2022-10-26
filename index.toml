@@ -63,6 +63,11 @@ hash = "8c34fca924fdd83cd25f10f53329725d711da0a594abb1f1294f5a8ab35821bc"
 metafile = true
 
 [[files]]
+file = "mods/data-attributes.toml"
+hash = "d08fff02c307fd4b1f1aa3c501f1793e87ff6894ceaab872af26beffc4eb92e2"
+metafile = true
+
+[[files]]
 file = "mods/debugify.toml"
 hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
 metafile = true
