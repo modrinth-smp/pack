@@ -1,0 +1,13 @@
+name = "Enchancement"
+filename = "enchancement-1.18-18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a55ee0ab50130d2428364ba5acef7b34b2c5299"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3831198
+project-id = 598056

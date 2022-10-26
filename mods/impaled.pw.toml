@@ -1,0 +1,13 @@
+name = "Impaled 🔱"
+filename = "impaled-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c72a1fb9b3f410d1c190853dee6c58864ed6f1c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3802476
+project-id = 478843

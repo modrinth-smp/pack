@@ -78,6 +78,11 @@ hash = "ee9eff41327993190f1ecc723c1b7985c3ebc3627ae726a339cac6ebec6eb009"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "660583ad034fd876f68c33103acaeba536249cac600bb5e260bddbf65bd996cf"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.toml"
 hash = "b2ea40d22049bd29e3807c89b6d2176fe9def564635dda8bdfa091b982af8c93"
 metafile = true
@@ -162,6 +167,16 @@ file = "mods/enchancement-1.18-18.jar"
 hash = "851e8188ca056956daa75d79af9e80ed78122ef94705b1a4994518f03a6c2e98"
 
 [[files]]
+file = "mods/enchancement.pw.toml"
+hash = "f3339edc91b4c45ce48ae0ea1db061109571e8ef1abb335ccb1604e756f56af2"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "58798246bc0dd7b80f4b7a649ac3cbfa581f0c34827845eabe89cc4f89b5f93d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.toml"
 hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
 metafile = true
@@ -169,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/exordium.toml"
 hash = "ef9ab1a9351ad20f6c5c061caa409d4024bcf8ad498dc4994d897ca1988c61ff"
+metafile = true
+
+[[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "f21a2091e05a860abf1436effd976cfe281b907523d01cef9868f7b728302b6e"
 metafile = true
 
 [[files]]
@@ -213,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/impaled-1.1.3.jar"
 hash = "cde6be9426e3822a831731a5888632993897b3154f787d5167f703e9cb9b9306"
+
+[[files]]
+file = "mods/impaled.pw.toml"
+hash = "161d67b6f3f3bfc7a0a8ba4f0e13aa24856ce13193870e149f58558da0812dde"
+metafile = true
 
 [[files]]
 file = "mods/indium.toml"
@@ -305,6 +330,11 @@ hash = "716bbe27c9eaf75ce645b66eddf4a6e624979faf19bce380083d8e5ca0b25694"
 metafile = true
 
 [[files]]
+file = "mods/rats-mischief.pw.toml"
+hash = "7c0573457dffe5098e127f76dfe92d4374de821c0bddbb47d958ba81ee114f96"
+metafile = true
+
+[[files]]
 file = "mods/ratsmischief-1.3.7.jar"
 hash = "748ebaa4bad60384114d41ddc9c70e5a72a40f698aa5a636e4ae2f3883a36f5b"
 
@@ -339,6 +369,11 @@ hash = "6c973459d122bcc1d3b8d97e03d17faf7620291e78de58bba886b6baa1f5bafb"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "1fe9aa5d3d49e8a426236ba189b751a0421b8ea56eb890b9dc794f53aea915d4"
+metafile = true
+
+[[files]]
 file = "mods/soundphysics-fabric-1.18.2-1.0.6.jar"
 hash = "4e33911b808d9c90a8299a012bb8ea61858c22fdcf1b4b1f97cd29ccf430500a"
 
@@ -350,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/terra.toml"
 hash = "d3df5f333ab62716ee0418ad9654a3bead43f69ccf26dfbcda81d1ab3e6d5606"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
 metafile = true
 
 [[files]]
