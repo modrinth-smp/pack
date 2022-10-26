@@ -19,6 +19,11 @@ hash = "e305831d1a08cdf6205c34763e2362817da21723a917a00858e5af33225d575f"
 metafile = true
 
 [[files]]
+file = "mods/biomesyougo.toml"
+hash = "ee9eff41327993190f1ecc723c1b7985c3ebc3627ae726a339cac6ebec6eb009"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.toml"
 hash = "b2ea40d22049bd29e3807c89b6d2176fe9def564635dda8bdfa091b982af8c93"
 metafile = true
@@ -222,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.toml"
 hash = "99f9628800ccabd189b9bb28859f01caaf9ad672f247ae875e3eaa5f965f9406"
+metafile = true
+
+[[files]]
+file = "mods/terra.toml"
+hash = "d3df5f333ab62716ee0418ad9654a3bead43f69ccf26dfbcda81d1ab3e6d5606"
 metafile = true
 
 [[files]]
