@@ -1,6 +1,46 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/capes.json5"
+hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
+
+[[files]]
+file = "config/cem.conf"
+hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
+
+[[files]]
+file = "config/exordium.json"
+hash = "b2caa9c1a2ff986d6f1816371c44989ffc7c0336f91475b9a6fcdc61fae9ef40"
+
+[[files]]
+file = "config/fastload.properties"
+hash = "d5d39233d392afb000aa2c6c4eba69a0cf65d0db28879fc90777a9bc90341693"
+
+[[files]]
+file = "config/iris.properties"
+hash = "a9a6c0ecd319c9417e35b3b17f91de37075001803296dc6fab2a52f888a342c8"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "16e48fe05ad1fb0c4d363d2d35f9d2c23c6895d60ee29f9f6eaca81e4e4ba9e8"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "6d9d65b9e92519e09931488219a9cb618e67bde4faf06c192e6243f3dcbc09fd"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
+
+[[files]]
+file = "config/tr7zwDonorSettings.json"
+hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
 file = "mods/Bookshelf-Fabric-1.18.2-13.2.50.jar"
 hash = "b9a3025f657a483ef68e3b10bb6a8eb18b7196c671f05b022f15fe4d25cffc69"
 
@@ -20,6 +60,11 @@ metafile = true
 [[files]]
 file = "mods/arch-ex.toml"
 hash = "e305831d1a08cdf6205c34763e2362817da21723a917a00858e5af33225d575f"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.toml"
+hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
 
 [[files]]
@@ -43,6 +88,16 @@ hash = "bd1682a96d36541581d636eb8bb9438c2276a175d42cc9db1d7dc007664d5353"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.toml"
+hash = "9278183949339092056837d262aeb4dec44f788d1e126609ca2704b9f2251f63"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.toml"
+hash = "5850435527adab62c3e94599030d572d48518cfb025707712cfdbdc077da7079"
+metafile = true
+
+[[files]]
 file = "mods/cem.toml"
 hash = "727c319290b015a46f54f379fdb32b1a8eeb649c85bb7409fe3b9ffd3ebe5d22"
 metafile = true
@@ -60,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.toml"
 hash = "8c34fca924fdd83cd25f10f53329725d711da0a594abb1f1294f5a8ab35821bc"
+metafile = true
+
+[[files]]
+file = "mods/createplus.toml"
+hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
 metafile = true
 
 [[files]]
@@ -108,6 +168,11 @@ hash = "1cbab1c32b96a8aabae5582b70d3fed4a2fb87c8675022443fd28ed9d7ccb237"
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.toml"
+hash = "4e1fdb81a77685ee8d3516858d7af716615599aa936e40d3a1f8dfd8bc33974a"
 metafile = true
 
 [[files]]
@@ -244,6 +309,10 @@ hash = "6c973459d122bcc1d3b8d97e03d17faf7620291e78de58bba886b6baa1f5bafb"
 metafile = true
 
 [[files]]
+file = "mods/soundphysics-fabric-1.18.2-1.0.6.jar"
+hash = "4e33911b808d9c90a8299a012bb8ea61858c22fdcf1b4b1f97cd29ccf430500a"
+
+[[files]]
 file = "mods/starlight.toml"
 hash = "99f9628800ccabd189b9bb28859f01caaf9ad672f247ae875e3eaa5f965f9406"
 metafile = true
@@ -267,3 +336,12 @@ metafile = true
 file = "mods/when-dungeons-arise.toml"
 hash = "32fb3d990a13819f8be435e135f92ba262aa455209f019852b05d2befb54e344"
 metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "c78ed024370e83d09df73b5eb722612a3f48d65005f47539fb383b9186a5532f"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "ce6a3313adc96eebc96bd69c3cbca32da6d042f9f7ca1b204d3f3adebf382f9f"
