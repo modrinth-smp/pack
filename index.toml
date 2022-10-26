@@ -58,6 +58,11 @@ hash = "471190b2467d200f034d7f8b38ac932cb76082724439fa500dce4041a431b1f2"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.toml"
+hash = "80e7c9fd868c28612d6e9945044e274399579ab0007285f2ec50caf006c771f3"
+metafile = true
+
+[[files]]
 file = "mods/arch-ex.toml"
 hash = "e305831d1a08cdf6205c34763e2362817da21723a917a00858e5af33225d575f"
 metafile = true
@@ -138,6 +143,11 @@ hash = "2440a3dbb326c4993cb00d5619581017cc783981f8cbaf8ab53bd400d1e5bbf5"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.toml"
+hash = "c985721f5a11baa6b140fc007ae4a352b883a2171d97938a2fb843ff57d0599d"
+metafile = true
+
+[[files]]
 file = "mods/ebe.toml"
 hash = "b668875d7f22033e43efeef4c1772f8567d6b33b06f7b16e17ccb3bbcb23dc47"
 metafile = true
@@ -196,6 +206,11 @@ hash = "c7328d340eb29d6b5fc33a67ae094f2ef4310f7128731818e45eef0a1821dfae"
 metafile = true
 
 [[files]]
+file = "mods/immersive-weathering.toml"
+hash = "f9e80ca9103a5a14b4f53a777f429780ed2ccb91264e49d4bc4d98bf454ad189"
+metafile = true
+
+[[files]]
 file = "mods/impaled-1.1.3.jar"
 hash = "cde6be9426e3822a831731a5888632993897b3154f787d5167f703e9cb9b9306"
 
@@ -250,6 +265,11 @@ hash = "b99c1cae57386de36e5a6dc1d247057d0d5c0e9c5a5563b67d078ea7975919a9"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.toml"
+hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
+metafile = true
+
+[[files]]
 file = "mods/origins.toml"
 hash = "f8cf32a9a4872c9c66312237e1d12bd6dd427ebce1686cd2c499991a86f0ad7e"
 metafile = true
@@ -265,6 +285,11 @@ hash = "7eb35d12afe2ac3c10d86565432bc1461f90605c66ea04943b61c48dc7225512"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.toml"
+hash = "3536ef11faf8108f2f925487b793a7f19fee9c67b270594e0f63f44f9d0c26ff"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.toml"
 hash = "54db897cb696867285ee42422e4e57ee9e30382541c5e7c85bdaa3324aae63fe"
 metafile = true
@@ -272,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.toml"
 hash = "b8b8a60a1da87bb84af8236288d98b307f156551435bceceabbc61bb8fef0cd1"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.toml"
+hash = "716bbe27c9eaf75ce645b66eddf4a6e624979faf19bce380083d8e5ca0b25694"
 metafile = true
 
 [[files]]
