@@ -41,18 +41,6 @@ file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
-file = "mods/Bookshelf-Fabric-1.18.2-13.2.50.jar"
-hash = "b9a3025f657a483ef68e3b10bb6a8eb18b7196c671f05b022f15fe4d25cffc69"
-
-[[files]]
-file = "mods/EnchantmentDescriptions-Fabric-1.18.2-10.0.9.jar"
-hash = "07a125a46b33b23909c90250be3c73733ec331a9214938062f20da74a218d37f"
-
-[[files]]
-file = "mods/TerraBlender-fabric-1.18.2-1.2.0.126.jar"
-hash = "f788191a313a9833431e90c29525712c4abf5ff84347ac203562fee5836e8e3c"
-
-[[files]]
 file = "mods/animatica.toml"
 hash = "471190b2467d200f034d7f8b38ac932cb76082724439fa500dce4041a431b1f2"
 metafile = true
@@ -163,10 +151,6 @@ hash = "1428adfaa0d88e445ace318b2b29102fdb220709d70fe619fffaf5fdd8c59fa3"
 metafile = true
 
 [[files]]
-file = "mods/enchancement-1.18-18.jar"
-hash = "851e8188ca056956daa75d79af9e80ed78122ef94705b1a4994518f03a6c2e98"
-
-[[files]]
 file = "mods/enchancement.pw.toml"
 hash = "f3339edc91b4c45ce48ae0ea1db061109571e8ef1abb335ccb1604e756f56af2"
 metafile = true
@@ -190,10 +174,6 @@ metafile = true
 file = "mods/extra-origins.pw.toml"
 hash = "f21a2091e05a860abf1436effd976cfe281b907523d01cef9868f7b728302b6e"
 metafile = true
-
-[[files]]
-file = "mods/extraorigins-1.18-12.jar"
-hash = "1cbab1c32b96a8aabae5582b70d3fed4a2fb87c8675022443fd28ed9d7ccb237"
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
@@ -229,10 +209,6 @@ metafile = true
 file = "mods/immersive-weathering.toml"
 hash = "f9e80ca9103a5a14b4f53a777f429780ed2ccb91264e49d4bc4d98bf454ad189"
 metafile = true
-
-[[files]]
-file = "mods/impaled-1.1.3.jar"
-hash = "cde6be9426e3822a831731a5888632993897b3154f787d5167f703e9cb9b9306"
 
 [[files]]
 file = "mods/impaled.pw.toml"
@@ -290,6 +266,11 @@ hash = "b99c1cae57386de36e5a6dc1d247057d0d5c0e9c5a5563b67d078ea7975919a9"
 metafile = true
 
 [[files]]
+file = "mods/niceload.pw.toml"
+hash = "1e46cf3f802f1d9e611f5d7433d86ec6c5897e1ca6758ded906043a988bde55c"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.toml"
 hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
 metafile = true
@@ -335,10 +316,6 @@ hash = "7c0573457dffe5098e127f76dfe92d4374de821c0bddbb47d958ba81ee114f96"
 metafile = true
 
 [[files]]
-file = "mods/ratsmischief-1.3.7.jar"
-hash = "748ebaa4bad60384114d41ddc9c70e5a72a40f698aa5a636e4ae2f3883a36f5b"
-
-[[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "2ece972fd1306a38ca278d9da23656c73bc103df57709a4bdac0a0271a646f34"
 metafile = true
@@ -372,10 +349,6 @@ metafile = true
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "1fe9aa5d3d49e8a426236ba189b751a0421b8ea56eb890b9dc794f53aea915d4"
 metafile = true
-
-[[files]]
-file = "mods/soundphysics-fabric-1.18.2-1.0.6.jar"
-hash = "4e33911b808d9c90a8299a012bb8ea61858c22fdcf1b4b1f97cd29ccf430500a"
 
 [[files]]
 file = "mods/starlight.toml"
