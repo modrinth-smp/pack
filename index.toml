@@ -76,6 +76,21 @@ hash = "918e0574c67e9dd023a7757060ba398c806adb9e271e715e7ee7fd6416c4b83e"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "3f1a94dc7555d19869312ad0218e97a15505f77a1b2f1228dc718e238a4b5c53"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "4282b7fa7650440b13dc25a7a3f9433b69f4e2701a95315629a8b1e98e304891"
+metafile = true
+
+[[files]]
 file = "mods/biomesyougo.toml"
 hash = "ee9eff41327993190f1ecc723c1b7985c3ebc3627ae726a339cac6ebec6eb009"
 metafile = true
