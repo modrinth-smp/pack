@@ -226,6 +226,10 @@ hash = "6ec482ff494310bd53b20b93dfc7daf34173ad2959f0fc63de2228525f210dbb"
 metafile = true
 
 [[files]]
+file = "mods/gate-of-babylon-1.7.0-1.18.2.jar"
+hash = "9cdef0dc0b60fcb68b2718636e045beeecfe8afa9926cc8db145c20a887eeb39"
+
+[[files]]
 file = "mods/geckolib.toml"
 hash = "c7328d340eb29d6b5fc33a67ae094f2ef4310f7128731818e45eef0a1821dfae"
 metafile = true
@@ -321,6 +325,11 @@ hash = "e9c12e125dc3e4f5d9172a5866655be12f558c6a58c3753aa3f7a9db4c365efc"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.toml"
 hash = "4e0efad0df305b9fc28853fcf2397ac512cad02508e4679d9e96fea17a66d080"
 metafile = true
@@ -405,8 +414,18 @@ hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
 metafile = true
 
 [[files]]
+file = "mods/things.pw.toml"
+hash = "c1e4d88f84e10998aafd226c39b53b5afb31a46a5fa274930a518c93128631b8"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.toml"
 hash = "674aacb2479d3daa2291b0cba18299373e95b2f7bc534c7ed202af6825c8e4bb"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]
