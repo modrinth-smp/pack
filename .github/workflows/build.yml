@@ -25,7 +25,7 @@ jobs:
           path: '*.mrpack'
       - name: Install modpack
         run: |
-          ./packwiz serve
+          ./packwiz serve &
           mkdir server-test
           cd server-test
           wget https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
