@@ -60,6 +60,11 @@ hash = "719fcb41d5f591808ffd89c6144bde4f495228299e12e2cb2781a6f90b7adbf4"
 metafile = true
 
 [[files]]
+file = "mods/backpackmod.pw.toml"
+hash = "a0f0a422db89567760504291b990f47539fa44984ba74a95d44c1f157cff61a9"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
