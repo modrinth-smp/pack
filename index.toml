@@ -386,5 +386,15 @@ hash = "c78ed024370e83d09df73b5eb722612a3f48d65005f47539fb383b9186a5532f"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api-fabric.pw.toml"
+hash = "973b23acf84af8e57c04f395a497f307cb929316d33b19e245228328c457d14f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-fabric.pw.toml"
+hash = "ddb9cf5438bf572b458b64eafcddfb42fb9f719b8cb4bf07412d8da73eb72ce6"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "ce6a3313adc96eebc96bd69c3cbca32da6d042f9f7ca1b204d3f3adebf382f9f"
