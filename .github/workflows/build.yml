@@ -34,4 +34,4 @@ jobs:
         run: |
           wget https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/latest/quilt-installer-latest.jar
           java -jar quilt-installer-latest.jar install server 1.18.2 --install-dir=.
-          echo stop | java -jar quilt-server-launcher.jar
+          echo stop | java -jar quilt-server-launch.jar
