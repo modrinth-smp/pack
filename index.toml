@@ -371,6 +371,10 @@ hash = "d82b62b8c5b98274da6d218ed321999abc2e439501104a3198f8628b099c65b6"
 metafile = true
 
 [[files]]
+file = "mods/snowday-1.0.11.18.jar"
+hash = "640bc86d30ed3b186a0597ad16adc6bf27bcb2331ab88f3b9445eeaf1b09cc31"
+
+[[files]]
 file = "mods/sodium-extra.toml"
 hash = "796c6a15440e5e2b7de8bac5d024ff290d50bb4ecc21a2dda5cb15317e551fe7"
 metafile = true
