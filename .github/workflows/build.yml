@@ -1,0 +1,36 @@
+name: build
+on: [push, workflow_dispatch, pull_request]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up JDK 17
+        uses: actions/setup-java@v2.1.0
+        with:
+          java-version: 17
+          distribution: zulu
+      - name: Download Packwiz
+        run: |
+          wget https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
+          7z x Linux\ 64-bit\ x86.zip
+      - name: Build mrpack
+        run: packwiz modrinth export
+      - name: Upload mrpack
+        uses: actions/upload-artifact@v2.3.1
+        with:
+          name: mrpack
+          path: '*.mrpack'
+      - name: Install modpack
+        run: |
+          packwiz serve
+          mkdir server-test
+          cd server-test
+          wget https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
+          java -jar packwiz-installer-bootstrap.jar -g -s server http://localhost:8080/pack.toml
+      - name: Run server
+        run: |
+          wget https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/latest/quilt-installer-latest.jar
+          java -jar quilt-installer-latest.jar install server 1.18.2 --install-dir=.
+          echo stop | java -jar quilt-server-launcher.jar
