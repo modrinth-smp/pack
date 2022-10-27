@@ -226,8 +226,9 @@ hash = "6ec482ff494310bd53b20b93dfc7daf34173ad2959f0fc63de2228525f210dbb"
 metafile = true
 
 [[files]]
-file = "mods/gate-of-babylon-1.7.0-1.18.2.jar"
-hash = "9cdef0dc0b60fcb68b2718636e045beeecfe8afa9926cc8db145c20a887eeb39"
+file = "mods/gate-of-babylon.pw.toml"
+hash = "d892b9a51300e5a0d7c1ca1f9cd3c252ecaf2e4263b379ade2070c9ae4f39c4d"
+metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
