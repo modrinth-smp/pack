@@ -23,15 +23,14 @@ jobs:
         with:
           name: mrpack
           path: '*.mrpack'
-      - name: Install modpack
+      - name: Test modpack
         run: |
           ./packwiz serve &
           mkdir server-test
           cd server-test
           wget https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
           java -jar packwiz-installer-bootstrap.jar -g -s server http://localhost:8080/pack.toml
-      - name: Run server
-        run: |
           wget https://maven.quiltmc.org/repository/release/org/quiltmc/quilt-installer/latest/quilt-installer-latest.jar
           java -jar quilt-installer-latest.jar install server 1.18.2 --install-dir=. --download-server
+          echo eula=true > eula.txt
           echo stop | java -jar quilt-server-launch.jar
