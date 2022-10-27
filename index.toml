@@ -61,6 +61,11 @@ hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "918e0574c67e9dd023a7757060ba398c806adb9e271e715e7ee7fd6416c4b83e"
+metafile = true
+
+[[files]]
 file = "mods/biomesyougo.toml"
 hash = "ee9eff41327993190f1ecc723c1b7985c3ebc3627ae726a339cac6ebec6eb009"
 metafile = true
@@ -203,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.toml"
 hash = "c7328d340eb29d6b5fc33a67ae094f2ef4310f7128731818e45eef0a1821dfae"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "13c0def8c0c17935775c252e8241bc2dd01957dcfe7c8d5bd9d9be62b9c8bd93"
 metafile = true
 
 [[files]]
@@ -373,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.toml"
 hash = "54f57765ec22a3c0afc5b3071cc8868c4f62a8aa2a75afd987d138875cb49938"
+metafile = true
+
+[[files]]
+file = "mods/waystones-fabric.pw.toml"
+hash = "7ea5b6cc7b9173248890027044a2e18edd202996dc2302a6d2030d405981ef97"
 metafile = true
 
 [[files]]
