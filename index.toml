@@ -86,11 +86,6 @@ hash = "3f1a94dc7555d19869312ad0218e97a15505f77a1b2f1228dc718e238a4b5c53"
 metafile = true
 
 [[files]]
-file = "mods/betternether.pw.toml"
-hash = "4282b7fa7650440b13dc25a7a3f9433b69f4e2701a95315629a8b1e98e304891"
-metafile = true
-
-[[files]]
 file = "mods/biomesyougo.toml"
 hash = "ee9eff41327993190f1ecc723c1b7985c3ebc3627ae726a339cac6ebec6eb009"
 metafile = true
