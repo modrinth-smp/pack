@@ -211,6 +211,11 @@ hash = "f21a2091e05a860abf1436effd976cfe281b907523d01cef9868f7b728302b6e"
 metafile = true
 
 [[files]]
+file = "mods/extrasounds.pw.toml"
+hash = "504d8bd82fdb2824234d0ded3711834c1dd5e56a00b2ae16efc6244455490da1"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "f8e1d985ffc5f3ee32bc2a77b1765a8c7bb2fdd580433c4e70fe4ab43cba7da4"
 metafile = true
@@ -263,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/indium.toml"
 hash = "098bd205318646e5eb4dedcfc0d7a39f177c834be20d264187c8e44710d2329d"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.pw.toml"
+hash = "2bbc136bf1e508476f2379b5f2fbe13d0f6403bfd6a723a0ac8025cad26ab9ed"
 metafile = true
 
 [[files]]
@@ -368,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/quilt-loading-screen.toml"
 hash = "716bbe27c9eaf75ce645b66eddf4a6e624979faf19bce380083d8e5ca0b25694"
+metafile = true
+
+[[files]]
+file = "mods/rainglow.pw.toml"
+hash = "67e4b808d4025c406b5e31a1e11d56035f11ac8baf43bfa235142be4ec10009f"
 metafile = true
 
 [[files]]
