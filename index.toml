@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-weathering.toml"
-hash = "f9e80ca9103a5a14b4f53a777f429780ed2ccb91264e49d4bc4d98bf454ad189"
+hash = "a226f8fd112cc69f1aa70039a657f76060cd8a71b5c6f1e47b282bbf26f35063"
 metafile = true
 
 [[files]]
