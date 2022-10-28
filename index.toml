@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/armored-elytra.pw.toml"
-hash = "f15484aa55b8c2700f33af7d1f5933d46be886c5e19a87a1f991111915e8f855"
+hash = "eb4e668208b2314a17cd5624ad2727d1ff416e471be2b4f520e84a713e68f28a"
 metafile = true
 
 [[files]]
