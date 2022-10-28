@@ -425,11 +425,6 @@ hash = "de1442e146d6c3ca804acdae8dc855c11601c55321835d457d53ed939a4cda67"
 metafile = true
 
 [[files]]
-file = "mods/solid_mobs.toml"
-hash = "cb6e2a897c0109f87dd2bcd28aec4a7133a68d291119dcb33a214538d7793557"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "1fe9aa5d3d49e8a426236ba189b751a0421b8ea56eb890b9dc794f53aea915d4"
 metafile = true
