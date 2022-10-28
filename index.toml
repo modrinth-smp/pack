@@ -256,6 +256,11 @@ hash = "13c0def8c0c17935775c252e8241bc2dd01957dcfe7c8d5bd9d9be62b9c8bd93"
 metafile = true
 
 [[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "0f93f7ebe762960461c659f042c0dfcb4079bcdff54a52df6b5ba1e7c8fa79ef"
+metafile = true
+
+[[files]]
 file = "mods/immersive-weathering.toml"
 hash = "f9e80ca9103a5a14b4f53a777f429780ed2ccb91264e49d4bc4d98bf454ad189"
 metafile = true
