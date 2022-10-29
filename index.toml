@@ -86,6 +86,11 @@ hash = "df5fb31bfd6e37b32ed5d190c51bddc15c5cc7a182feaa3aa3d248421894d637"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "1dea45a775887e68b1cafb587498dfa5514b3ea8d17ea58783920397f89ff7d7"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "660583ad034fd876f68c33103acaeba536249cac600bb5e260bddbf65bd996cf"
 metafile = true
