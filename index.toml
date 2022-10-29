@@ -86,11 +86,6 @@ hash = "df5fb31bfd6e37b32ed5d190c51bddc15c5cc7a182feaa3aa3d248421894d637"
 metafile = true
 
 [[files]]
-file = "mods/biomesyougo.toml"
-hash = "ee9eff41327993190f1ecc723c1b7985c3ebc3627ae726a339cac6ebec6eb009"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "660583ad034fd876f68c33103acaeba536249cac600bb5e260bddbf65bd996cf"
 metafile = true
@@ -450,6 +445,11 @@ hash = "1a1252f950fda13a51c64bf839aa0b5e6eb980610334791d0c300125acdb5757"
 metafile = true
 
 [[files]]
+file = "mods/terra.pw.toml"
+hash = "d3df5f333ab62716ee0418ad9654a3bead43f69ccf26dfbcda81d1ab3e6d5606"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
 metafile = true
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/woof.pw.toml"
-hash = "6421e16088520f29b7bc4b6767265657a0d8fbbaa79f99ac432f79260cb60d80"
+hash = "cfb86081b24afe5d89e3c8da966641204bcff457bc858e858a6d0b62be0ee417"
 metafile = true
 
 [[files]]
