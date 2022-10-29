@@ -3,7 +3,7 @@
     "_comment": "Before changing anything, see https://github.com/Patbox/StyledChat#configuration",
     "defaultStyle": {
         "displayName": "${vanillaDisplayName}",
-        "chat": "${player} <dark_gray>»</dark_gray>${message}",
+        "chat": "${player} <dark_gray>»</dark_gray> ${message}",
         "join": "<yellow><lang:multiplayer.player.joined:'${player}'></yellow>",
         "joinRenamed": "<yellow><lang:multiplayer.player.joined.renamed:'${player}':'${old_name}'></yellow>",
         "left": "<yellow><lang:multiplayer.player.left:'${player}'></yellow>",
