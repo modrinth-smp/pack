@@ -29,8 +29,16 @@ file = "config/yosbr/config/puzzle.json"
 hash = "6d9d65b9e92519e09931488219a9cb618e67bde4faf06c192e6243f3dcbc09fd"
 
 [[files]]
+file = "config/yosbr/config/roles.json"
+hash = "dd9e3532c2cc776319a98a7adf850a30b85aef0cc8b32bb1aa41ce9191ad77d9"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
+
+[[files]]
+file = "config/yosbr/config/styled-chat.json"
+hash = "fb43c62245309d52fa12e589518c03dc4ef6294085b4e0f3c0db90779966342b"
 
 [[files]]
 file = "config/yosbr/config/tr7zwDonorSettings.json"
@@ -407,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "8bb4a0eff008695578b561587f6a6f600203e831529326259cb83eb386c6cb45"
+hash = "864c0eaaf3f421d4c79a9c9d4fb876d01e27b2daa695ad61ffe00c361072d956"
 metafile = true
 
 [[files]]
