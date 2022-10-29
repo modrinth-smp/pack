@@ -401,6 +401,11 @@ hash = "d82b62b8c5b98274da6d218ed321999abc2e439501104a3198f8628b099c65b6"
 metafile = true
 
 [[files]]
+file = "mods/sleep-warp.pw.toml"
+hash = "6bdff050481f582ae8ea0fd3d91b44693ea5dbe5bb430b519dbb5a4c3564e8dd"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.toml"
 hash = "796c6a15440e5e2b7de8bac5d024ff290d50bb4ecc21a2dda5cb15317e551fe7"
 metafile = true
@@ -408,11 +413,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "de1442e146d6c3ca804acdae8dc855c11601c55321835d457d53ed939a4cda67"
-metafile = true
-
-[[files]]
-file = "mods/somnia-awoken-fabric.pw.toml"
-hash = "18005655bde4091dfe9d392425ac3cc31228263b5538e345355c055c0d70b0b1"
 metafile = true
 
 [[files]]
