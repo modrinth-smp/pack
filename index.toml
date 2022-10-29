@@ -246,11 +246,6 @@ hash = "c7328d340eb29d6b5fc33a67ae094f2ef4310f7128731818e45eef0a1821dfae"
 metafile = true
 
 [[files]]
-file = "mods/gravestones.pw.toml"
-hash = "13c0def8c0c17935775c252e8241bc2dd01957dcfe7c8d5bd9d9be62b9c8bd93"
-metafile = true
-
-[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "0f93f7ebe762960461c659f042c0dfcb4079bcdff54a52df6b5ba1e7c8fa79ef"
 metafile = true
@@ -416,6 +411,11 @@ hash = "de1442e146d6c3ca804acdae8dc855c11601c55321835d457d53ed939a4cda67"
 metafile = true
 
 [[files]]
+file = "mods/somnia-awoken-fabric.pw.toml"
+hash = "18005655bde4091dfe9d392425ac3cc31228263b5538e345355c055c0d70b0b1"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "1fe9aa5d3d49e8a426236ba189b751a0421b8ea56eb890b9dc794f53aea915d4"
 metafile = true
@@ -458,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.toml"
 hash = "c78ed024370e83d09df73b5eb722612a3f48d65005f47539fb383b9186a5532f"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "2265b6332ca60a1261261995de4e424f9aca37f0140899762230f04fdc406f79"
 metafile = true
 
 [[files]]
