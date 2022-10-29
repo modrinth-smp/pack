@@ -476,6 +476,11 @@ hash = "6c62fbb94e81c135f41a63dd3e1b9f4fcedbf175d573bc758db6494a7b142ff1"
 metafile = true
 
 [[files]]
+file = "mods/woof.pw.toml"
+hash = "b3b9193da640fe9b6f5cb3f0c22bda6d82a69b11a36e6a19866524084f7d41f9"
+metafile = true
+
+[[files]]
 file = "mods/wthit.toml"
 hash = "c78ed024370e83d09df73b5eb722612a3f48d65005f47539fb383b9186a5532f"
 metafile = true
