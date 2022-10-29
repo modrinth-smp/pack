@@ -286,6 +286,11 @@ hash = "bf5271823b4a8002e64c612b331805aa7f8ee24ea96ca20aa6c6b30cf088e1dc"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.toml"
 hash = "f8cc506ea3677071fee41cc40d042874cafb8de03043f9ca1713376d83512372"
 metafile = true
@@ -443,11 +448,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.toml"
-hash = "712d2cf1a2d30e0b1a5a52c741ed8736d30d0c054250ae122a34b3601d73acac"
 metafile = true
 
 [[files]]
