@@ -38,7 +38,7 @@ hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "eee2387ddd69b5508b2532d140f0852d385e7c84906936ec21efe45e7e30ca76"
+hash = "bb1064d7059d74f36f6b67f71457b1633d1fe1cfa7d69f1b15bc9770abb30e06"
 
 [[files]]
 file = "mods/animatica.toml"
@@ -246,11 +246,6 @@ hash = "c7328d340eb29d6b5fc33a67ae094f2ef4310f7128731818e45eef0a1821dfae"
 metafile = true
 
 [[files]]
-file = "mods/gravestones.pw.toml"
-hash = "13c0def8c0c17935775c252e8241bc2dd01957dcfe7c8d5bd9d9be62b9c8bd93"
-metafile = true
-
-[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "0f93f7ebe762960461c659f042c0dfcb4079bcdff54a52df6b5ba1e7c8fa79ef"
 metafile = true
@@ -406,6 +401,11 @@ hash = "d82b62b8c5b98274da6d218ed321999abc2e439501104a3198f8628b099c65b6"
 metafile = true
 
 [[files]]
+file = "mods/sleep-warp.pw.toml"
+hash = "6bdff050481f582ae8ea0fd3d91b44693ea5dbe5bb430b519dbb5a4c3564e8dd"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.toml"
 hash = "796c6a15440e5e2b7de8bac5d024ff290d50bb4ecc21a2dda5cb15317e551fe7"
 metafile = true
@@ -463,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.toml"
 hash = "c78ed024370e83d09df73b5eb722612a3f48d65005f47539fb383b9186a5532f"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "2265b6332ca60a1261261995de4e424f9aca37f0140899762230f04fdc406f79"
 metafile = true
 
 [[files]]
