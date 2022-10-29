@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/woof.pw.toml"
-hash = "b3b9193da640fe9b6f5cb3f0c22bda6d82a69b11a36e6a19866524084f7d41f9"
+hash = "6421e16088520f29b7bc4b6767265657a0d8fbbaa79f99ac432f79260cb60d80"
 metafile = true
 
 [[files]]
