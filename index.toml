@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/gate-of-babylon.pw.toml"
-hash = "d892b9a51300e5a0d7c1ca1f9cd3c252ecaf2e4263b379ade2070c9ae4f39c4d"
+hash = "56b877cdba592ffbf5e940f2621af89cb2621809590e448daff6f4bc12266678"
 metafile = true
 
 [[files]]
