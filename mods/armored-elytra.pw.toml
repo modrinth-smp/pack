@@ -1,0 +1,13 @@
+name = "Armored Elytra"
+filename = "ArmoredElytra-3.0.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "bc07e867075bce5911d2bb138bd6b98e7515870c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3629635
+project-id = 406550
