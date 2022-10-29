@@ -2,10 +2,7 @@
     "admin": {
         "level": 999,
         "overrides": {
-            "name_decoration": {
-                "style": ["#9b59b6", "bold"],
-                "suffix": { "text": "*" }
-            },
+            "name_style": ["#9b59b6"],
             "permission_level": 4,
             "command_feedback": true,
             "commands": {
@@ -22,9 +19,7 @@
     },
     "everyone": {
         "overrides": {
-            "name_decoration": {
-                "style": ["#63f792"]
-            },
+            "name_style": ["#63f792"],
             "commands": {
                 "help": "allow",
                 ".*": "deny"
