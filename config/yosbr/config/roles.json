@@ -2,7 +2,7 @@
     "admin": {
         "level": 999,
         "overrides": {
-            "name_style": ["#9b59b6"],
+            "name_style": ["#3498db"],
             "permission_level": 4,
             "command_feedback": true,
             "commands": {
