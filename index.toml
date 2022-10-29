@@ -81,6 +81,11 @@ hash = "918e0574c67e9dd023a7757060ba398c806adb9e271e715e7ee7fd6416c4b83e"
 metafile = true
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "df5fb31bfd6e37b32ed5d190c51bddc15c5cc7a182feaa3aa3d248421894d637"
+metafile = true
+
+[[files]]
 file = "mods/biomesyougo.toml"
 hash = "ee9eff41327993190f1ecc723c1b7985c3ebc3627ae726a339cac6ebec6eb009"
 metafile = true
@@ -273,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/inspecio.pw.toml"
 hash = "2bbc136bf1e508476f2379b5f2fbe13d0f6403bfd6a723a0ac8025cad26ab9ed"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "4b9842525b68ebc0566db42a424ec90c73eb1fa8be431a19f8a5975183a597f8"
 metafile = true
 
 [[files]]
