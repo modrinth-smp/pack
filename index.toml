@@ -394,6 +394,11 @@ hash = "929df449bbab18c711f34e5aa4db8c5f7bb7aa19de3291c41dd10bbef71ad725"
 metafile = true
 
 [[files]]
+file = "mods/quickconnectbutton.pw.toml"
+hash = "00628bea1dc60e2725ec0e19920821bf9df2886572a989714f97ea3a590b8e65"
+metafile = true
+
+[[files]]
 file = "mods/quilt-loading-screen.toml"
 hash = "716bbe27c9eaf75ce645b66eddf4a6e624979faf19bce380083d8e5ca0b25694"
 metafile = true
