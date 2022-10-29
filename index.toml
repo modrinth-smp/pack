@@ -96,11 +96,6 @@ hash = "61e83f271c7e16618b26ee427e87d9ced073c2e8edcc94dbdff76aed3f5a8069"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.toml"
-hash = "55cc2d0bf105f66262e773707d2c1b1e300745a9915e33ed4a673ce53abe6476"
-metafile = true
-
-[[files]]
 file = "mods/capes.toml"
 hash = "a2b51c0553fe315980bbc2e6f1a41d4f689c1f27fbea8c77d34683330e7b793e"
 metafile = true
