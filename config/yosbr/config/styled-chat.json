@@ -2,7 +2,7 @@
     "CONFIG_VERSION_DONT_TOUCH_THIS": 2,
     "_comment": "Before changing anything, see https://github.com/Patbox/StyledChat#configuration",
     "defaultStyle": {
-        "displayName": "${vanillaDisplayName}",
+        "displayName": "<color:#63f792>${vanillaDisplayName}</color>",
         "chat": "${player} <dark_gray>»</dark_gray> ${message}",
         "join": "<yellow><lang:multiplayer.player.joined:'${player}'></yellow>",
         "joinRenamed": "<yellow><lang:multiplayer.player.joined.renamed:'${player}':'${old_name}'></yellow>",
@@ -18,6 +18,14 @@
         "sayCommand": "[${player}] ${message}",
         "meCommand": "<lang:'chat.type.emote':'${player}':'${message}'>"
     },
+    "permissionStyles": [
+        {
+            "permission": "group.admin",
+            "style": {
+                "displayName": "<color:#3498db>${vanillaDisplayName}</color>"
+            }
+        }
+    ],
     "petDeathMessage": "${default_message}",
     "emoticons": {
         "bucket": "🪣",

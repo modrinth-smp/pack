@@ -328,6 +328,11 @@ hash = "d1bfbb6ca8b538cfa37e439ff8d3ffc965d20054d67d7d727f594df1113d79d0"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "0275777920657261043489967aac4fb9c5f43817b2c1a41cffd74f9a554b4ac2"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.toml"
 hash = "91175facc2190e305575098d4d0ad8007944ee44b0c7d98a69098a1dcc12d1a8"
 metafile = true
