@@ -33,16 +33,12 @@ file = "config/yosbr/config/quickconnectbutton.json5"
 hash = "5cf674740d167ad1af57049b3b6cacfe085a8e700a44d13ee997771aa2996453"
 
 [[files]]
-file = "config/yosbr/config/roles.json"
-hash = "dd9e3532c2cc776319a98a7adf850a30b85aef0cc8b32bb1aa41ce9191ad77d9"
-
-[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
 
 [[files]]
 file = "config/yosbr/config/styled-chat.json"
-hash = "fb43c62245309d52fa12e589518c03dc4ef6294085b4e0f3c0db90779966342b"
+hash = "b3275844007bc4b70eeaad61acf3b26ff69983eb87ff81f4ff52b0043f48ef07"
 
 [[files]]
 file = "config/yosbr/config/tr7zwDonorSettings.json"
@@ -95,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/banhammer.pw.toml"
 hash = "df5fb31bfd6e37b32ed5d190c51bddc15c5cc7a182feaa3aa3d248421894d637"
+metafile = true
+
+[[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "ee9eff41327993190f1ecc723c1b7985c3ebc3627ae726a339cac6ebec6eb009"
 metafile = true
 
 [[files]]
