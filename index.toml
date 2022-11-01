@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.toml"
-hash = "ba3cc883bcd43c1d61d32232337c49868957ebfcce0ac605e07d1f47629edf97"
+hash = "9e48596517c056bb51c2b21ebcd0267a84d4a93da511f62c8ef59af3724f45bf"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.toml"
-hash = "b95a313b4b6a63fae688925ae836ca77bbb0b7fde456a35e4803d43a33d2b39a"
+hash = "137880abf99255493a33f9e358b186334c025bc0dd66fd011303f5d0e0eebfaa"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "c7328d340eb29d6b5fc33a67ae094f2ef4310f7128731818e45eef0a1821dfae"
+hash = "a99ab26a7d3cd8c59b781d29d5b9847261dc17c3873b23a8fbf5175f1566d139"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.toml"
-hash = "4e0efad0df305b9fc28853fcf2397ac512cad02508e4679d9e96fea17a66d080"
+hash = "527279ca4b9a30e756139465d01009482bafc3e2992c96947118a56e0bce293f"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "864c0eaaf3f421d4c79a9c9d4fb876d01e27b2daa695ad61ffe00c361072d956"
+hash = "8f056ca18afbb2e15b8ea0fca960069b33e1a26c1b4ac5be4584ad56f622fdb5"
 metafile = true
 
 [[files]]
