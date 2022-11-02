@@ -1,4 +1,4 @@
-name: build
+name: publish
 on:
   push:
     branches:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-and-test:
+  publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
