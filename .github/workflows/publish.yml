@@ -1,0 +1,31 @@
+name: build
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Download Packwiz
+        run: |
+          wget https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
+          7z x Linux\ 64-bit\ x86.zip
+          chmod +x packwiz
+      - name: Build mrpack
+        run: ./packwiz modrinth export
+      - name: Set outputs
+        id: vars
+        run: echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
+      - name: Publish mrpack
+        uses: Kir-Antipov/mc-publish@v3.2
+        with:
+          modrinth-id: PEMTFQFO
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          files-primary: '*.mrpack'
+          version: ${{ steps.vars.outputs.sha_short }}
+          loaders: quilt
+          game-versions: '1.18.2'
