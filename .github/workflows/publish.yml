@@ -17,17 +17,14 @@ jobs:
           chmod +x packwiz
       - name: Build mrpack
         run: ./packwiz modrinth export
-      - name: Get short SHA
-        uses: benjlevesque/short-sha@v2.1
-        id: short-sha
       - name: Rename file
-        run: mv *.mrpack 'Modrinth SMP-${{ steps.short-sha.outputs.sha }}.mrpack'
+        run: mv *.mrpack 'Modrinth SMP-1.0.${{ github.run_number }}.mrpack'
       - name: Publish mrpack
         uses: Kir-Antipov/mc-publish@v3.2
         with:
           modrinth-id: PEMTFQFO
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           files-primary: '*.mrpack'
-          version: ${{ steps.short-sha.outputs.sha }}
+          version: 1.0.${{ github.run_number }}
           loaders: quilt
           game-versions: '1.18.2'
