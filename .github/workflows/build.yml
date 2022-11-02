@@ -16,11 +16,6 @@ jobs:
           wget https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
           7z x Linux\ 64-bit\ x86.zip
           chmod +x packwiz
-      - name: Cache
-        uses: actions/cache@v3.0.11
-        with:
-          path: ${XDG_DATA_HOME}/packwiz
-          key: packwiz-cache
       - name: Build mrpack
         run: ./packwiz modrinth export
       - name: Upload mrpack
