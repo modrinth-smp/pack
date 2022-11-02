@@ -18,14 +18,15 @@ jobs:
       - name: Build mrpack
         run: ./packwiz modrinth export
       - name: Set outputs
-        id: vars
-        run: echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
+        run: echo "SHORT_SHA=`git rev-parse --short HEAD`" >> $GITHUB_ENV
+      - name: Rename file
+        run: mv *.mrpack 'Modrinth SMP-${SHORT_SHA}.mrpack'
       - name: Publish mrpack
         uses: Kir-Antipov/mc-publish@v3.2
         with:
           modrinth-id: PEMTFQFO
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           files-primary: '*.mrpack'
-          version: ${{ steps.vars.outputs.sha_short }}
+          version: ${SHORT_SHA}
           loaders: quilt
           game-versions: '1.18.2'
