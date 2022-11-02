@@ -26,5 +26,6 @@ jobs:
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           files-primary: '*.mrpack'
           version: 1.0.${{ github.run_number }}
+          changelog: ${{ github.event.head_commit.message }}
           loaders: quilt
           game-versions: '1.18.2'
