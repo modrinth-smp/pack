@@ -264,6 +264,16 @@ hash = "c7328d340eb29d6b5fc33a67ae094f2ef4310f7128731818e45eef0a1821dfae"
 metafile = true
 
 [[files]]
+file = "mods/gravity-api.pw.toml"
+hash = "98d1df3299d78eda4698b5f6d04cebcbb5e3a3b146f81ace4d8bfd1a18c9fdf5"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "a1d5806168534e969d2f37cd966b0ab242444bc8fe85f1ce192e0dfe735aa810"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "0f93f7ebe762960461c659f042c0dfcb4079bcdff54a52df6b5ba1e7c8fa79ef"
 metafile = true
@@ -366,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "b07aad3095c15a09447c7ed156f66d89af6d834e2fe93011a4a883634f245350"
 metafile = true
 
 [[files]]
