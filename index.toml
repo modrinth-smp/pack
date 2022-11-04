@@ -483,11 +483,6 @@ hash = "1a1252f950fda13a51c64bf839aa0b5e6eb980610334791d0c300125acdb5757"
 metafile = true
 
 [[files]]
-file = "mods/tabtps.pw.toml"
-hash = "70898b7bbec4d43ae064318e9a6038f11d518b5f7f0622108b5aa0584e1527b3"
-metafile = true
-
-[[files]]
 file = "mods/terra.pw.toml"
 hash = "d3df5f333ab62716ee0418ad9654a3bead43f69ccf26dfbcda81d1ab3e6d5606"
 metafile = true
