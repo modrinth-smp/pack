@@ -473,6 +473,10 @@ hash = "b55d9d1ea5b5cadde5973123c0c644065f905afff5ea8d3d24c6d6564a7470cd"
 metafile = true
 
 [[files]]
+file = "mods/spellbound-1.9.1.jar"
+hash = "8c2135d3f339eb90f3d9743346b67eeefa32742503a86aaeaa52cf648e9a4668"
+
+[[files]]
 file = "mods/starlight.toml"
 hash = "4a3459f611830192b819df448228fb7dbc2486b186138daf947ae41eb769b872"
 metafile = true
