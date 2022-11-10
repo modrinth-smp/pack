@@ -114,6 +114,11 @@ hash = "61e83f271c7e16618b26ee427e87d9ced073c2e8edcc94dbdff76aed3f5a8069"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "49d1c65714dd00a1b2c763fea2078f7481d8678962c75d76a939d0ab70003edd"
+metafile = true
+
+[[files]]
 file = "mods/capes.toml"
 hash = "a2b51c0553fe315980bbc2e6f1a41d4f689c1f27fbea8c77d34683330e7b793e"
 metafile = true
