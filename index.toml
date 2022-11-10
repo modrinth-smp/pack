@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.toml"
-hash = "1f95a4ce425054a88f746021273ac25153c5ac940fe54d2ed6f9d69be3d319d8"
+hash = "9e48596517c056bb51c2b21ebcd0267a84d4a93da511f62c8ef59af3724f45bf"
 metafile = true
 
 [[files]]
@@ -539,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "156a733076e089b5aebc9f4c0847bf84a2e5e25ce6aa307358de8152760b078d"
+hash = "c78ed024370e83d09df73b5eb722612a3f48d65005f47539fb383b9186a5532f"
 metafile = true
 
 [[files]]
