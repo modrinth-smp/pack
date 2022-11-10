@@ -259,6 +259,11 @@ hash = "6ec482ff494310bd53b20b93dfc7daf34173ad2959f0fc63de2228525f210dbb"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "62ce8fd227fa2a8d9d03dbb3d86f27c0cd65f906ab0312860c93d4195c4036c6"
+metafile = true
+
+[[files]]
 file = "mods/gate-of-babylon.pw.toml"
 hash = "56b877cdba592ffbf5e940f2621af89cb2621809590e448daff6f4bc12266678"
 metafile = true
@@ -505,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.toml"
 hash = "674aacb2479d3daa2291b0cba18299373e95b2f7bc534c7ed202af6825c8e4bb"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-additions.pw.toml"
+hash = "ab69426b7e810d0b1812aaaf886ee2034cc8e4dd1b5f8cb000166cdbe54d6cc1"
 metafile = true
 
 [[files]]
