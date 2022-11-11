@@ -369,11 +369,6 @@ hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
 metafile = true
 
 [[files]]
-file = "mods/numismatic-overhaul.pw.toml"
-hash = "a115a703ac767250970be74009834f37e796e9d0e65caa47a12a75c34d903c61"
-metafile = true
-
-[[files]]
 file = "mods/origins.toml"
 hash = "8639aa86ac96b56ec96b5eee3103f8de7462708387ff288a9b69149fdeaafab8"
 metafile = true
