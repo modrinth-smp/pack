@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/niceload.pw.toml"
-hash = "1e46cf3f802f1d9e611f5d7433d86ec6c5897e1ca6758ded906043a988bde55c"
+hash = "9330ff251dea80636e465822bc47268710d341623b5233425cc7226e53b43f19"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.toml"
-hash = "716bbe27c9eaf75ce645b66eddf4a6e624979faf19bce380083d8e5ca0b25694"
+hash = "9f98bfa89074df8eeda27c8afea5b30abf6847522e290871c242ce47d9f003ae"
 metafile = true
 
 [[files]]
