@@ -15,3 +15,4 @@ version = "xI7F43eN"
 [option]
 optional = true
 default = true
+description = "Optifine parity mod and extra features for resource packs, allows changing hard-coded colors"

@@ -15,3 +15,4 @@ version = "hPR8Mdcr"
 [option]
 optional = true
 default = true
+description = "Adds more information to the loading screen"

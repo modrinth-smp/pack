@@ -15,3 +15,4 @@ version = "zhBXhMhZ"
 [option]
 optional = true
 default = true
+description = "Optifine parity mod, adds dynamic lighting"

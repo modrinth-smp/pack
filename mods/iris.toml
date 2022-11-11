@@ -15,3 +15,4 @@ version = "1BCkW8RE"
 [option]
 optional = true
 default = true
+description = "Allows you to play with Optifine shaders on Sodium"

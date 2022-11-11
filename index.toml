@@ -50,7 +50,7 @@ hash = "bb1064d7059d74f36f6b67f71457b1633d1fe1cfa7d69f1b15bc9770abb30e06"
 
 [[files]]
 file = "mods/animatica.toml"
-hash = "afac0d6ba4c09b3d21e961c76f91151545b953603e10eb26192fac67bd40c4a5"
+hash = "72bea309bb3622faa133d624108ce580b778a43b8a2f720347600e9064e08ba0"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "d00dca3367b13088d4dacb369d2ce99d86fa8b96a5d5c6e3683ef2cd7c679fcb"
+hash = "1dea95204f9ccebea8f53dfff69e77d33d6fe78b0a908cf3c22338f19ae86d13"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.toml"
-hash = "25df281d909354a039bc697bb7812832b85565fc591d7c439a153ff847641a1b"
+hash = "5e5e2c293ffea84c19cb90bcee95c841c8aad6cebc264d2d38bd0f76f3efb334"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/cem.toml"
-hash = "6f092c8395b3cf22c8698c468e40c167445f9b8a18dd7a370c9389593b992871"
+hash = "1a0a2394fd2c05b6394ef56ab1ac0b20ba2b90bf962d8304b4b44ef5386c2f5a"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/colormatic.toml"
-hash = "39206e516cf2e9f1da41f9d6ed63467691e6fb20f7844a392b6a26c81112164a"
+hash = "194c9150ed5ec37f02af158df88992d11c457695bf8a7de2f7688b4ed8824029"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "19accedf8db2ee39ed0b7b53ec1a537de6e4b343f77a44ba2627651879582f01"
+hash = "16f35e87f5dc6e1209b24ebf4ded87a581643a4d6218c2ee40c4145aac696a88"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.toml"
-hash = "508b9be26ca80b6ad8ec11b1c8b43c5c3c5af4ce19272827eb5c3ba82ded3f8d"
+hash = "0d708810962c20b0bee700121768d92dd6d3a7952ccf0a63ef860193332a7481"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.toml"
-hash = "1439ca34cd97126793cbd71a82b6a6a4d79261ae2d9c228711fb54cb0e66329a"
+hash = "828ab2cdc0170a8ce26fad6ac45c2757b69855385cfc70f1a90f82004226b0e2"
 metafile = true
 
 [[files]]
@@ -309,13 +309,18 @@ hash = "2bbc136bf1e508476f2379b5f2fbe13d0f6403bfd6a723a0ac8025cad26ab9ed"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tabs-updated.pw.toml"
+hash = "f79ecd7c403adc3e4e7cf00ea586feb807b78ef5300c8f516abece79a7d2353c"
+metafile = true
+
+[[files]]
 file = "mods/invview.pw.toml"
 hash = "4b9842525b68ebc0566db42a424ec90c73eb1fa8be431a19f8a5975183a597f8"
 metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "8fc06770162629cd785e334837be184b67c720c81fccff598dea0176acc261e1"
+hash = "3b459e92fe7cae1294496cd6ae51deb689205feafdda17d434abab91ae79669a"
 metafile = true
 
 [[files]]
@@ -325,12 +330,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "802bcc718e7d932c0774683e39fbd19d718ae5216764db2c863f1780ad0859e1"
+hash = "25215dc418662fa758e8b88c173b5798859f019284d2d3e846604ffba8334f0d"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "51864f31c8e91d73022329ff55342f8928889b7d0c5472faaf9497b7b2d7664c"
+hash = "dae5a5bac1690f72f0cee6a7ecdecac89b85632068e22b2f22ae1ac90ceaf105"
 metafile = true
 
 [[files]]
@@ -360,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/niceload.pw.toml"
-hash = "9330ff251dea80636e465822bc47268710d341623b5233425cc7226e53b43f19"
+hash = "67a2b81b3c6ef87d31a5dd2f06158e5bb2cf5844d316dba93301ed932f9f5a0e"
 metafile = true
 
 [[files]]
@@ -425,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.toml"
-hash = "9f98bfa89074df8eeda27c8afea5b30abf6847522e290871c242ce47d9f003ae"
+hash = "f3c7d443a5912910bdccc7be6f3a298f667fafedbaa9fdda4c69967cf3d54506"
 metafile = true
 
 [[files]]
@@ -440,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "e746deb548601c749789f2ba7df5e27e0a519fedf82c32dc387a574936b66319"
+hash = "87035e3f2880d69f59f098109e40bc1185817f0018bc4e1915ff5e5480d259ac"
 metafile = true
 
 [[files]]
