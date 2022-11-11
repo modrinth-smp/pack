@@ -11,3 +11,7 @@ hash = "78d3aa59b8070277edf71f245a86d2e1d1ce7bbd"
 [update.modrinth]
 mod-id = "VPU6VYVP"
 version = "luEeBiOs"
+
+[option]
+optional = true
+default = true

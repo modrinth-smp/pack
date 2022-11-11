@@ -15,3 +15,4 @@ version = "DCgHdBA4"
 [option]
 optional = true
 default = true
+description = "Most players on the server communicate with this mod, so it is recommended that you remove this only for compatibility reasons. Know that this is needed to hear other people and interact with groups."

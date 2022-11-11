@@ -50,7 +50,7 @@ hash = "bb1064d7059d74f36f6b67f71457b1633d1fe1cfa7d69f1b15bc9770abb30e06"
 
 [[files]]
 file = "mods/animatica.toml"
-hash = "d577a6c51e72d380ae2896dbd77075dd86139e12feb4b82be913f06b5384e54a"
+hash = "afac0d6ba4c09b3d21e961c76f91151545b953603e10eb26192fac67bd40c4a5"
 metafile = true
 
 [[files]]
@@ -110,12 +110,17 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "61e83f271c7e16618b26ee427e87d9ced073c2e8edcc94dbdff76aed3f5a8069"
+hash = "d00dca3367b13088d4dacb369d2ce99d86fa8b96a5d5c6e3683ef2cd7c679fcb"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "49d1c65714dd00a1b2c763fea2078f7481d8678962c75d76a939d0ab70003edd"
 metafile = true
 
 [[files]]
 file = "mods/capes.toml"
-hash = "a2b51c0553fe315980bbc2e6f1a41d4f689c1f27fbea8c77d34683330e7b793e"
+hash = "25df281d909354a039bc697bb7812832b85565fc591d7c439a153ff847641a1b"
 metafile = true
 
 [[files]]
@@ -135,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/cem.toml"
-hash = "1e12daa9c5181a0875e05e4861c7f888a7098f377e5871640dca98ea5e374259"
+hash = "6f092c8395b3cf22c8698c468e40c167445f9b8a18dd7a370c9389593b992871"
 metafile = true
 
 [[files]]
@@ -150,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/colormatic.toml"
-hash = "59891a5e8f526dce142e7a7bcc7988bc4b133bebebbc1a271bfe79847d57a970"
+hash = "39206e516cf2e9f1da41f9d6ed63467691e6fb20f7844a392b6a26c81112164a"
 metafile = true
 
 [[files]]
@@ -160,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "31a63b0eaf93c22a8ffbd6711e2a43e098a372b618060f4e35960a567ccdd993"
+hash = "19accedf8db2ee39ed0b7b53ec1a537de6e4b343f77a44ba2627651879582f01"
 metafile = true
 
 [[files]]
@@ -185,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.toml"
-hash = "f0d538af7253b34d4de677b6fe308e3cbe387e47e17b12db07361cd1794ecba7"
+hash = "508b9be26ca80b6ad8ec11b1c8b43c5c3c5af4ce19272827eb5c3ba82ded3f8d"
 metafile = true
 
 [[files]]
@@ -240,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.toml"
-hash = "137880abf99255493a33f9e358b186334c025bc0dd66fd011303f5d0e0eebfaa"
+hash = "1439ca34cd97126793cbd71a82b6a6a4d79261ae2d9c228711fb54cb0e66329a"
 metafile = true
 
 [[files]]
@@ -251,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.toml"
 hash = "6ec482ff494310bd53b20b93dfc7daf34173ad2959f0fc63de2228525f210dbb"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "62ce8fd227fa2a8d9d03dbb3d86f27c0cd65f906ab0312860c93d4195c4036c6"
 metafile = true
 
 [[files]]
@@ -305,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "bf5271823b4a8002e64c612b331805aa7f8ee24ea96ca20aa6c6b30cf088e1dc"
+hash = "8fc06770162629cd785e334837be184b67c720c81fccff598dea0176acc261e1"
 metafile = true
 
 [[files]]
@@ -315,12 +325,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "f8cc506ea3677071fee41cc40d042874cafb8de03043f9ca1713376d83512372"
+hash = "802bcc718e7d932c0774683e39fbd19d718ae5216764db2c863f1780ad0859e1"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "7b262a0f6667a54188403232373b07a1c546e5f803047bf47d53102b2d6ad601"
+hash = "51864f31c8e91d73022329ff55342f8928889b7d0c5472faaf9497b7b2d7664c"
 metafile = true
 
 [[files]]
@@ -350,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/niceload.pw.toml"
-hash = "1e46cf3f802f1d9e611f5d7433d86ec6c5897e1ca6758ded906043a988bde55c"
+hash = "9330ff251dea80636e465822bc47268710d341623b5233425cc7226e53b43f19"
 metafile = true
 
 [[files]]
@@ -415,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.toml"
-hash = "716bbe27c9eaf75ce645b66eddf4a6e624979faf19bce380083d8e5ca0b25694"
+hash = "9f98bfa89074df8eeda27c8afea5b30abf6847522e290871c242ce47d9f003ae"
 metafile = true
 
 [[files]]
@@ -430,12 +440,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "7376d2dbbf3dbdd6816e232561507b52f69d2b1e4e5ec7a1ebe6feb5a667fc5f"
+hash = "e746deb548601c749789f2ba7df5e27e0a519fedf82c32dc387a574936b66319"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "8f056ca18afbb2e15b8ea0fca960069b33e1a26c1b4ac5be4584ad56f622fdb5"
+hash = "51b0f007a71c9f53154f09db8a6721b263c39b76354201da3fa9214349290c23"
 metafile = true
 
 [[files]]
@@ -504,6 +514,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.toml"
 hash = "674aacb2479d3daa2291b0cba18299373e95b2f7bc534c7ed202af6825c8e4bb"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-additions.pw.toml"
+hash = "ab69426b7e810d0b1812aaaf886ee2034cc8e4dd1b5f8cb000166cdbe54d6cc1"
 metafile = true
 
 [[files]]
