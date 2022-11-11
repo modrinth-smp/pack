@@ -309,11 +309,6 @@ hash = "2bbc136bf1e508476f2379b5f2fbe13d0f6403bfd6a723a0ac8025cad26ab9ed"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tabs-updated.pw.toml"
-hash = "f79ecd7c403adc3e4e7cf00ea586feb807b78ef5300c8f516abece79a7d2353c"
-metafile = true
-
-[[files]]
 file = "mods/invview.pw.toml"
 hash = "4b9842525b68ebc0566db42a424ec90c73eb1fa8be431a19f8a5975183a597f8"
 metafile = true
