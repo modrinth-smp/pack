@@ -15,3 +15,4 @@ version = "XMHUTWrw"
 [option]
 optional = true
 default = true
+description = "Optifine parity mod for resource packs, adds custom skyboxes"

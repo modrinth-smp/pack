@@ -15,3 +15,4 @@ version = "GYUKcduK"
 [option]
 optional = true
 default = true
+description = "Optifine parity mod for resource packs, allows loading of custom animated texture format"
