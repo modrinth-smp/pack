@@ -354,6 +354,11 @@ hash = "91175facc2190e305575098d4d0ad8007944ee44b0c7d98a69098a1dcc12d1a8"
 metafile = true
 
 [[files]]
+file = "mods/mermod-fabric.pw.toml"
+hash = "2a8e9000ab63ce54d5f981673cb83b1adaffcd584129d1ddf60730db29a232ab"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "787673fa16e88c32e4b9ada118b7d01ee67f9ea4b8bd2c582cd55d9919b601a4"
 metafile = true
