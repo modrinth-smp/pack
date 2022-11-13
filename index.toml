@@ -1,16 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/enchancement.json"
+hash = "cf7f857b1fd0174e616502b447d07dce9a08a0a9194e6de6f565061c7da8356a"
+
+[[files]]
+file = "config/spellbound.json"
+hash = "32603c40aa93652ee7725724f8fd06d06393608b0c3e2de9912224ad03bcea15"
+
+[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
 
 [[files]]
 file = "config/yosbr/config/cem.conf"
 hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
-
-[[files]]
-file = "config/yosbr/config/enchancement.json"
-hash = "cf7f857b1fd0174e616502b447d07dce9a08a0a9194e6de6f565061c7da8356a"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -39,10 +43,6 @@ hash = "5cf674740d167ad1af57049b3b6cacfe085a8e700a44d13ee997771aa2996453"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
-
-[[files]]
-file = "config/yosbr/config/spellbound.json"
-hash = "32603c40aa93652ee7725724f8fd06d06393608b0c3e2de9912224ad03bcea15"
 
 [[files]]
 file = "config/yosbr/config/styled-chat.json"
