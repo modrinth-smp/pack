@@ -1,0 +1,13 @@
+name = "Weapon Leveling"
+filename = "weaponleveling-fabric-1.18.2-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IuFgFiGE/versions/CSXsl6Kd/weaponleveling-fabric-1.18.2-1.4.1.jar"
+hash-format = "sha1"
+hash = "d6ab2471705da5ada40cce61e3e8a450c11656c3"
+
+[update]
+[update.modrinth]
+mod-id = "IuFgFiGE"
+version = "CSXsl6Kd"
