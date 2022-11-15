@@ -11,3 +11,8 @@ hash = "5f1e8064d303eef366f7e2fc8599cdf2a6254843"
 [update.modrinth]
 mod-id = "DynYZEae"
 version = "jWOt1f90"
+
+[option]
+optional = true
+default = true
+description = "Performance mod that makes the UI run at a lower framerate to improve render speed. Optional mod because this can break many mod's functionalities like Xaero's Minimap."
