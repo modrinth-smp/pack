@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.toml"
-hash = "357d553507a8e5cdc6f248fd96856ef7e0b1813420babb70019b7743ab4b7a59"
+hash = "db1357befe133467fa9629e02bcfbe2941afb4704c5fd67ef6a1502ada0b1c4c"
 metafile = true
 
 [[files]]
