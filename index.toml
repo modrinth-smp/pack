@@ -558,8 +558,9 @@ hash = "7ea5b6cc7b9173248890027044a2e18edd202996dc2302a6d2030d405981ef97"
 metafile = true
 
 [[files]]
-file = "mods/weaponleveling-fabric-1.18.2-1.4.1.jar"
-hash = "2faad9279113c75117489dbe538eefb0f30d537fde8e65eaa11416b4cfd2d2df"
+file = "mods/weapon-leveling.pw.toml"
+hash = "5c54ea841358163f3a365c0eb811d14b89285fcc7f06946aa0e01a63a6a73c5c"
+metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.toml"
