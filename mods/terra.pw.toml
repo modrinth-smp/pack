@@ -1,13 +1,13 @@
 name = "Terra"
-filename = "Terra-fabric-6.0.0-BETA+a9248435a-shaded-mapped.jar"
+filename = "Terra-quilt-6.2.1-BETA+358e09d05.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FIlZB9L0/versions/6.0.0-BETA/Terra-fabric-6.0.0-BETA%2Ba9248435a-shaded-mapped.jar"
+url = "https://cdn.modrinth.com/data/FIlZB9L0/versions/BMKdpZ8z/Terra-quilt-6.2.1-BETA%2B358e09d05.jar"
 hash-format = "sha1"
-hash = "7dde38f466ae6e2e25e0e219ef7d2eccd2ce3511"
+hash = "3f5b2b9b3eb7e0a4e8e3940f3850a86953ef72c8"
 
 [update]
 [update.modrinth]
 mod-id = "FIlZB9L0"
-version = "wVxXTVIp"
+version = "BMKdpZ8z"

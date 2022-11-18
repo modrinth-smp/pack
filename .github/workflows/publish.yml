@@ -28,4 +28,4 @@ jobs:
           version: 1.0.${{ github.run_number }}
           changelog: ${{ github.event.head_commit.message }}
           loaders: quilt
-          game-versions: '1.18.2'
+          game-versions: '1.19.2'

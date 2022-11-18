@@ -1,18 +1,18 @@
 name = "Reese's Sodium Options"
-filename = "reeses_sodium_options-1.4.7+mc1.18.2-build.58.jar"
+filename = "reeses_sodium_options-1.4.7+mc1.19.2-build.59.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/74LitD6T/reeses_sodium_options-1.4.7%2Bmc1.18.2-build.58.jar"
+url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/Iusxhlyd/reeses_sodium_options-1.4.7%2Bmc1.19.2-build.59.jar"
 hash-format = "sha1"
-hash = "dee11063b13bad4af53f0fa3ac7f911a877706a7"
+hash = "b9cc6500afef896a577f7f07b635945d469e4b41"
 
 [update]
 [update.modrinth]
 mod-id = "Bh37bMuy"
-version = "74LitD6T"
+version = "Iusxhlyd"
 
 [option]
 optional = true
-default = true
 description = "Improves the Sodium video settings menu"
+default = true
