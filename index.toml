@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/disableinsecurechattoast.pw.toml"
-hash = "8b2e15f512c397937d43d6df8d027ce681bf664a1f850ec20dde0d7f2d555bcd"
+hash = "5582bb5e5f12f800ea40fa69990bfa74c3f009e60a15624f91ebddd61d2c4f3c"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+hash = "39a21afaae5d92388fdfea366dbd78c3ba1324fdfcbdd8e2c0cf9615a649c3e3"
 metafile = true
 
 [[files]]
