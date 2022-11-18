@@ -277,9 +277,8 @@ hash = "f018e498097eb60f62d603517a286d8f00af5298285d599b4688cfaf9d35d2b3"
 metafile = true
 
 [[files]]
-file = "mods/gate-of-babylon.pw.toml"
-hash = "56b877cdba592ffbf5e940f2621af89cb2621809590e448daff6f4bc12266678"
-metafile = true
+file = "mods/gate-of-babylon-1.7.0-1.19.2.jar"
+hash = "cba3748e316ec5b4b59dd04beae615d472714d8ef0da4e4df15ad88a1c6c4a38"
 
 [[files]]
 file = "mods/geckolib.toml"
@@ -368,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/mermod-fabric.pw.toml"
 hash = "b4e6e6966ab253aaa1a89d383aa118888f5838252aba7c0efac08986ef1db941"
+metafile = true
+
+[[files]]
+file = "mods/mine11lib.pw.toml"
+hash = "bc3811c1288e336dd62684bc292b7b7613b19bb3438f515af976b57f09ea6d5b"
 metafile = true
 
 [[files]]
