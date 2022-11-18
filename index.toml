@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/armored-elytra.pw.toml"
-hash = "011d0142a53eb26e7d2ad46513fac5547cca9dd9a7190b0e6962e43a68d89d75"
+hash = "b46af2de1693fcaf892fd6dd1734915a9a36549093144b724e940cce5936e17c"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/impaled.pw.toml"
-hash = "232c69d47c4466a97e5e6717940d57407438a99cb91b665349fb4282d8f76243"
+hash = "717e42c31fd9e80097f4d21ed6c138094a0025b53dfcf14d780c0078eb1b8722"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/rats-mischief.pw.toml"
-hash = "83f683966d10ddde6633c8a45076575b86a95775c1f8450ff277d590f4a0051b"
+hash = "b0da1f56d9d037a5edb8b837bbf5a7dafb7679f42a9a2bd7865bbb2d4fad57b1"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ hash = "17e15d8e9cf20994ecd9aa8223208a36bb71358b63831f1eb648eea5962f90c2"
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "431d19a6959338376d04c9689803131652520f4935789f87338ff4563a0d9b51"
+hash = "53843b76c33ecf7910248cd1c941920adf23f81130a9155997d911199dce0816"
 metafile = true
 
 [[files]]
@@ -548,8 +548,8 @@ hash = "842711b0a1baa2fc6bd2ef6c1953c735f68e73c6b7a13dee723851feb183349c"
 metafile = true
 
 [[files]]
-file = "mods/waystones-fabric.pw.toml"
-hash = "eb78309879c17839fad653f01f472aa638be647b6ff9b8881c08df0aaa8ab54f"
+file = "mods/waystones.pw.toml"
+hash = "7469851e3fed3e9176d431c4da39acb4d0d815f0f1e2341d8621d6c96294a697"
 metafile = true
 
 [[files]]
