@@ -576,13 +576,3 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
-
-[[files]]
-file = "mods/yungs-api-fabric.pw.toml"
-hash = "cd37432982096708513ea99f46734d3407f26e1b69df399722de5fd4e089e10a"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds-fabric.pw.toml"
-hash = "f226c76915922eff0167fac761a4961576cb4ea0159871c4796813c93511073a"
-metafile = true
