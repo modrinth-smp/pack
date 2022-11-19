@@ -330,8 +330,8 @@ hash = "7cfacba402f52a71096bda72ede806b9b6964c2c807019da76f4e27fa839c8a5"
 metafile = true
 
 [[files]]
-file = "mods/iris.toml"
-hash = "e781b764029b41fabd17a7396874c8b62de1c8428c0214fa63bb2d5a483e482d"
+file = "mods/iris.pw.toml"
+hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
 
 [[files]]
