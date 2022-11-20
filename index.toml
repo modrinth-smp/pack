@@ -120,6 +120,11 @@ hash = "1dea45a775887e68b1cafb587498dfa5514b3ea8d17ea58783920397f89ff7d7"
 metafile = true
 
 [[files]]
+file = "mods/blahaj.pw.toml"
+hash = "c72316c402b15d0cf555c912d711aa75a7164947515e3dbe05c9f083766fccce"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "660583ad034fd876f68c33103acaeba536249cac600bb5e260bddbf65bd996cf"
 metafile = true
@@ -336,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "3b459e92fe7cae1294496cd6ae51deb689205feafdda17d434abab91ae79669a"
+hash = "bf9c18f6eb9fc7ee0f35639d0003238fb83507422264a60fc44d2d9fec5fca43"
 metafile = true
 
 [[files]]
@@ -520,11 +525,6 @@ metafile = true
 [[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "1a1252f950fda13a51c64bf839aa0b5e6eb980610334791d0c300125acdb5757"
-metafile = true
-
-[[files]]
-file = "mods/terra.pw.toml"
-hash = "d3df5f333ab62716ee0418ad9654a3bead43f69ccf26dfbcda81d1ab3e6d5606"
 metafile = true
 
 [[files]]
