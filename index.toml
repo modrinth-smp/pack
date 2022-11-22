@@ -486,9 +486,8 @@ hash = "de1442e146d6c3ca804acdae8dc855c11601c55321835d457d53ed939a4cda67"
 metafile = true
 
 [[files]]
-file = "mods/solid_mobs-1.5-mc1.18.x.jar.pw.toml"
+file = "mods/solid_mobs-1.5-mc1.18.x.jar"
 hash = "17e15d8e9cf20994ecd9aa8223208a36bb71358b63831f1eb648eea5962f90c2"
-metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
@@ -501,9 +500,8 @@ hash = "b55d9d1ea5b5cadde5973123c0c644065f905afff5ea8d3d24c6d6564a7470cd"
 metafile = true
 
 [[files]]
-file = "mods/spellbound-1.9.1.jar.pw.toml"
+file = "mods/spellbound-1.9.1.jar"
 hash = "8c2135d3f339eb90f3d9743346b67eeefa32742503a86aaeaa52cf648e9a4668"
-metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
