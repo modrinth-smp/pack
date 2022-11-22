@@ -5,3 +5,4 @@ styled-chat
 quick-connect-button
 spark
 yosbr
+solid_mobs-1.5-mc1.18.x
