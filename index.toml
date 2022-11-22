@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/inspecio.pw.toml"
-hash = "2bbc136bf1e508476f2379b5f2fbe13d0f6403bfd6a723a0ac8025cad26ab9ed"
+hash = "d844f6a4fd247b6d9e2215f65cb886620890fe3cb3581398650761083cb21053"
 metafile = true
 
 [[files]]
