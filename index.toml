@@ -381,6 +381,11 @@ hash = "787673fa16e88c32e4b9ada118b7d01ee67f9ea4b8bd2c582cd55d9919b601a4"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "030b818f7aa75596fe5c0a04b15c66dc0531c79aee5820a30379cc5af77ee46d"
+metafile = true
+
+[[files]]
 file = "mods/niceload.pw.toml"
 hash = "67a2b81b3c6ef87d31a5dd2f06158e5bb2cf5844d316dba93301ed932f9f5a0e"
 metafile = true
