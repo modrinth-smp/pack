@@ -35,9 +35,10 @@ for filename in os.listdir('mods'):
                 mod_text += f'https://www.curseforge.com/minecraft/mc-mods/{mod_name}'
             case 'modrinth':
                 mod_text += f'https://modrinth.com/mod/{mod_data["update"]["modrinth"]["mod-id"]}'
-        mod_text += ')\n'
+        mod_text += ')'
     except KeyError:
         mod_text += mod_data['name']
+    mod_text += '\n'
     if mod_name in library_mods:
         library_mods_text += mod_text
     elif mod_name in optimization_mods:
