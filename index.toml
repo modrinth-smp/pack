@@ -29,6 +29,10 @@ file = "config/yosbr/config/fastload.properties"
 hash = "d5d39233d392afb000aa2c6c4eba69a0cf65d0db28879fc90777a9bc90341693"
 
 [[files]]
+file = "config/yosbr/config/inspecio.json"
+hash = "3ea7cea3ac8af927933266fb631677c96098f95bae61f2e5e23d6512a66634a2"
+
+[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "a9a6c0ecd319c9417e35b3b17f91de37075001803296dc6fab2a52f888a342c8"
 
