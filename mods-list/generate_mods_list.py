@@ -16,7 +16,7 @@ content_mods_text = '## Content Mods\n\n'
 library_mods_text = '## Library Mods\n\n'
 optimization_mods_text = '## Optimization/Client Mods\n\n'
 
-for filename in os.listdir('mods'):
+for filename in sorted(os.listdir('mods')):
     if not filename.endswith('.pw.toml'):
         continue
     mod_name = filename.removesuffix('.pw.toml')
