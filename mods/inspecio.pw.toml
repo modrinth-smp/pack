@@ -11,3 +11,8 @@ hash = "886b2d77f495b8725dbd8557fcb6437227e354f9"
 [update.modrinth]
 mod-id = "a93H3mKU"
 version = "6sfabi0J"
+
+[option]
+optional = true
+default = true
+description = "Displays more information in tooltips. Especially useful to preview maps and shulker boxes."

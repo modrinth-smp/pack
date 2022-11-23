@@ -1,0 +1,14 @@
+architectury-api
+badpackets
+balm
+bookshelf
+cloth-config
+data-attributes
+fabric-language-kotlin
+geckolib
+owo-lib
+patchouli
+paucal
+qsl
+terrablender
+yungs-api-fabric
