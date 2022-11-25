@@ -1,0 +1,13 @@
+name = "Mob Hat"
+filename = "mob-hat-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RJKxUQSK/versions/CZzmncgo/mob-hat-1.0.0.jar"
+hash-format = "sha1"
+hash = "d3a9cd81196d01259eb40d830df59c0802148dfa"
+
+[update]
+[update.modrinth]
+mod-id = "RJKxUQSK"
+version = "CZzmncgo"

@@ -376,6 +376,11 @@ hash = "2a8e9000ab63ce54d5f981673cb83b1adaffcd584129d1ddf60730db29a232ab"
 metafile = true
 
 [[files]]
+file = "mods/mob-hat.pw.toml"
+hash = "525035447456fe310cc3df1a687131d685a3fb120074237a9f5101d6efed6a14"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "787673fa16e88c32e4b9ada118b7d01ee67f9ea4b8bd2c582cd55d9919b601a4"
 metafile = true
