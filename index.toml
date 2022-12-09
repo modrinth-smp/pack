@@ -206,6 +206,11 @@ hash = "de1bd0882601bf10702ae273dff26deca45bd34c67d678c506bf0f078d13758a"
 metafile = true
 
 [[files]]
+file = "mods/deepslategenerator.pw.toml"
+hash = "4109a69dbfb82161471e68607133142ea3c8a36235388d655e61da9774eeabe9"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "0d708810962c20b0bee700121768d92dd6d3a7952ccf0a63ef860193332a7481"
 metafile = true
