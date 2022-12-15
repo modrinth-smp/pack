@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-hat.pw.toml"
-hash = "a43d8637281c65b8174e4d861402f37f84df1fb1b9564ee58883f2585b28e20d"
+hash = "e6df02efc3a97ae03a2755ab62802a90e3a51d4081e97973d23b4db25325fb74"
 metafile = true
 
 [[files]]
