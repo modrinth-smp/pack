@@ -361,6 +361,11 @@ hash = "229b09f29d225f71b95737207af93f77e1fde9a19aa8fafc22bc9dc652ed1d13"
 metafile = true
 
 [[files]]
+file = "mods/literal-sky-block-fabric.pw.toml"
+hash = "d08634180dff08a9dc7dcf66d0311dad1208372f8600d40aa7869d982f49e339"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d1bfbb6ca8b538cfa37e439ff8d3ffc965d20054d67d7d727f594df1113d79d0"
 metafile = true
