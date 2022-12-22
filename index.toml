@@ -256,6 +256,11 @@ hash = "504d8bd82fdb2824234d0ded3711834c1dd5e56a00b2ae16efc6244455490da1"
 metafile = true
 
 [[files]]
+file = "mods/ezrstorage.pw.toml"
+hash = "ae6b70f2a45baef032b6c1e2a8ca17c5e899debb50c6ace02ba17fa8d64fb14b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "f8e1d985ffc5f3ee32bc2a77b1765a8c7bb2fdd580433c4e70fe4ab43cba7da4"
 metafile = true
