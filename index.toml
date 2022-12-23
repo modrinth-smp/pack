@@ -17,6 +17,10 @@ file = "config/yosbr/config/cem.conf"
 hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
 
 [[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "ec45639f6f7a9577b271004d5ca655ba9dce9b70c8de1e3087f94fb0ca9c95d6"
+
+[[files]]
 file = "config/yosbr/config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
