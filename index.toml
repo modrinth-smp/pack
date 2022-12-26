@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/debugify.json"
+hash = "ec45639f6f7a9577b271004d5ca655ba9dce9b70c8de1e3087f94fb0ca9c95d6"
+
+[[files]]
 file = "config/enchancement.json"
 hash = "cf7f857b1fd0174e616502b447d07dce9a08a0a9194e6de6f565061c7da8356a"
 
@@ -15,10 +19,6 @@ hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
 [[files]]
 file = "config/yosbr/config/cem.conf"
 hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
-
-[[files]]
-file = "config/yosbr/config/debugify.json"
-hash = "ec45639f6f7a9577b271004d5ca655ba9dce9b70c8de1e3087f94fb0ca9c95d6"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
