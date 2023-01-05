@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/debugify.json"
+hash = "ec45639f6f7a9577b271004d5ca655ba9dce9b70c8de1e3087f94fb0ca9c95d6"
+
+[[files]]
 file = "config/enchancement.json"
 hash = "cf7f857b1fd0174e616502b447d07dce9a08a0a9194e6de6f565061c7da8356a"
 
@@ -195,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "ed8ee9f5f6cf22fe421b64291d509b8b72d158ab7a7b443048d9225673325d8b"
+hash = "d17801cdbcb90392e921548c26a123b6ce389d48cb910ae43d828b38ff4fb183"
 metafile = true
 
 [[files]]
@@ -211,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "de1bd0882601bf10702ae273dff26deca45bd34c67d678c506bf0f078d13758a"
+metafile = true
+
+[[files]]
+file = "mods/deepslategenerator.pw.toml"
+hash = "4109a69dbfb82161471e68607133142ea3c8a36235388d655e61da9774eeabe9"
 metafile = true
 
 [[files]]
@@ -230,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "9e48596517c056bb51c2b21ebcd0267a84d4a93da511f62c8ef59af3724f45bf"
+hash = "598fc5304ec71900720661e62857a4cf8c3cb2019ad04171a7886de1c4c92916"
 metafile = true
 
 [[files]]
@@ -256,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/extrasounds.pw.toml"
 hash = "504d8bd82fdb2824234d0ded3711834c1dd5e56a00b2ae16efc6244455490da1"
+metafile = true
+
+[[files]]
+file = "mods/ezrstorage.pw.toml"
+hash = "ae6b70f2a45baef032b6c1e2a8ca17c5e899debb50c6ace02ba17fa8d64fb14b"
 metafile = true
 
 [[files]]
@@ -369,6 +383,11 @@ hash = "229b09f29d225f71b95737207af93f77e1fde9a19aa8fafc22bc9dc652ed1d13"
 metafile = true
 
 [[files]]
+file = "mods/literal-sky-block-fabric.pw.toml"
+hash = "d08634180dff08a9dc7dcf66d0311dad1208372f8600d40aa7869d982f49e339"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d1bfbb6ca8b538cfa37e439ff8d3ffc965d20054d67d7d727f594df1113d79d0"
 metafile = true
@@ -390,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-hat.pw.toml"
-hash = "a43d8637281c65b8174e4d861402f37f84df1fb1b9564ee58883f2585b28e20d"
+hash = "e6df02efc3a97ae03a2755ab62802a90e3a51d4081e97973d23b4db25325fb74"
 metafile = true
 
 [[files]]
@@ -455,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "929df449bbab18c711f34e5aa4db8c5f7bb7aa19de3291c41dd10bbef71ad725"
+hash = "4ef251bf925c957e46fa3b223933425df85611d4ddf0e7a04949b38783800a65"
 metafile = true
 
 [[files]]
