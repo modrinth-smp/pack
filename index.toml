@@ -258,6 +258,16 @@ hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
 metafile = true
 
 [[files]]
+file = "mods/origins.pw.toml"
+hash = "862b429a623762ef0469eb2a409b9450a9b70071cf9bffabca654b97f7528424"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "bfb2ed4cb4f501621eab3467dc6c6206525a414d0fe401a8f91f8aaca7232993"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
@@ -270,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
 
 [[files]]
