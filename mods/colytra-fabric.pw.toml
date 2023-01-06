@@ -1,0 +1,13 @@
+name = "Colytra (Fabric)"
+filename = "colytra-fabric-6.0.0+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "538b5ade43b4f2afe3032126b7fbeb73da987613"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3930089
+project-id = 398089

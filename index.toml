@@ -163,8 +163,93 @@ hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
+file = "mods/cem.pw.toml"
+hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
+metafile = true
+
+[[files]]
+file = "mods/cleancut.pw.toml"
+hash = "7ea37e2cbe755149aaaf569fd9999541fc766c6057fc7a062a715af51b387b93"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.pw.toml"
+hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
+metafile = true
+
+[[files]]
+file = "mods/colytra-fabric.pw.toml"
+hash = "cbd4dae78290f64154c27b046abe13eab7cb46108bd267bc01ae8dbe8f9658ea"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
+metafile = true
+
+[[files]]
+file = "mods/data-attributes.pw.toml"
+hash = "9d272daefdc59f0a52348c7c5c7660541316b61b0c9f795abe741c692af5dda8"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "5b2566cd4cdfb5b47c31246af31ee4e27ec8ace3b248a00823adec7efd8f8fed"
+metafile = true
+
+[[files]]
+file = "mods/enchancement.pw.toml"
+hash = "8b3a9779801e8404de468697b63cc171beab18610fdcfdb46f6709b9b677b689"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "df887ef39e3a78cf9a23adb5667978e7bb0ae2d3f7db68b670489180a8e2bc05"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
+metafile = true
+
+[[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "186987bc3f451d929e42bab5dc391ca07a6badd7ade2c3ac7c4b6a291d6f44b5"
+metafile = true
+
+[[files]]
+file = "mods/extrasounds.pw.toml"
+hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
 
 [[files]]
@@ -185,4 +270,9 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "a50adf5dc08750b87e7681fb99637e39660e61befc795793023f4024ec7eeec3"
 metafile = true
