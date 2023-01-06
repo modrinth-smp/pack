@@ -1,6 +1,6 @@
 name = "Modrinth SMP"
 author = "Modrinth SMP"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,8 +9,8 @@ hash-format = "sha256"
 hash = "caa15b1157b41ae54398294329d792b147c17cefb7b5ac6711e0fb670b99976f"
 
 [versions]
-minecraft = "1.18.2"
-quilt = "0.18.1-beta.12"
+minecraft = "1.19.2"
+quilt = "0.18.1-beta.27"
 
 [options]
-acceptable-game-versions = ["1.18.2"]
+acceptable-game-versions = ["1.19.2"]
