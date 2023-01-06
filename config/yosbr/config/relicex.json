@@ -1,0 +1,15 @@
+{
+  "chestsHaveLoot": true,
+  "chestsHaveRelicChance": 15,
+  "chestsHaveLesserOrbChance": 8,
+  "chestsHaveGreaterOrbChance": 2,
+  "chestsHaveTomeChance": 7,
+  "dropsOnlyFromPlayerKills": true,
+  "dragonDropsStone": false,
+  "mobsDropLootChance": 3,
+  "mobDropIsRelicChance": 50,
+  "mobDropIsPotionChance": 0,
+  "mobDropIsLesserOrbChance": 50,
+  "mobDropIsGreaterOrbChance": 3,
+  "mobDropIsTomeChance": 1
+}
