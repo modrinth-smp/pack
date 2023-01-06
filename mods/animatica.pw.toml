@@ -11,3 +11,8 @@ hash = "d58560b9c226df726bdddc7ab25748a158a0cb3d"
 [update.modrinth]
 mod-id = "PRN43VSY"
 version = "rghK1s60"
+
+[option]
+optional = true
+default = true
+description = "Optifine parity mod for resource packs, allows loading of custom animated texture format"
