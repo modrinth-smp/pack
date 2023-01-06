@@ -71,3 +71,28 @@ hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "bb1064d7059d74f36f6b67f71457b1633d1fe1cfa7d69f1b15bc9770abb30e06"
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+metafile = true
+
+[[files]]
+file = "mods/arch-ex.pw.toml"
+hash = "f0e9dfb7405e8c7667a670f398a644ec17ac044dd5404ebe9cbf5aa5bfb907c4"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "b39a29623977769f92afcebfdcfa95d71acb2d513b4611a9462c0964b2f30294"
+metafile = true
