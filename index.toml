@@ -278,8 +278,28 @@ hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
 
 [[files]]
+file = "mods/things.pw.toml"
+hash = "6b056c1e695fd8d088c8a373e071953815d7b52fe1087baa44565d3093b111e1"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "b6d4b85f76ab7c63f30c6c2f12f3188c34b7e3977c092cc7062b2902319e3ed2"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-additions.pw.toml"
+hash = "916a6b442bad08a86df1069d941000da110b5b24e64fa75ad45c961590cfd7b9"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "7469851e3fed3e9176d431c4da39acb4d0d815f0f1e2341d8621d6c96294a697"
 metafile = true
 
 [[files]]
