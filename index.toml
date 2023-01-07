@@ -248,6 +248,11 @@ hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
 
 [[files]]
+file = "mods/ezrstorage.pw.toml"
+hash = "b453a280fcd953cf3b0a92145417aa8b3e6ef3b20641a310965c887bddfe1b8c"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
 metafile = true
