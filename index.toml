@@ -113,11 +113,6 @@ hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
 metafile = true
 
 [[files]]
-file = "mods/banhammer.pw.toml"
-hash = "8a15a15995f5f85a47943e82233dfb00533faff337ebf2f9d42836583becdfc1"
-metafile = true
-
-[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "dbbe09e6693b3c8608f7831b99f66ff57a62a5dfef612295cbe144553abd7336"
 metafile = true
@@ -284,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
+hash = "b6d4b85f76ab7c63f30c6c2f12f3188c34b7e3977c092cc7062b2902319e3ed2"
 metafile = true
 
 [[files]]
