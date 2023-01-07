@@ -1,0 +1,13 @@
+name = "Gate of Babylon Additions"
+filename = "Gate-of-Babylon-Additions-1.0.0-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AyCWKnmq/versions/Kp0zvUbU/Gate-of-Babylon-Additions-1.0.0-1.19.2.jar"
+hash-format = "sha1"
+hash = "f9d5ed785d15c6cf730d76c82aed2a564758779a"
+
+[update]
+[update.modrinth]
+mod-id = "AyCWKnmq"
+version = "Kp0zvUbU"

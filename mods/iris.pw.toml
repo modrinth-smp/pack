@@ -1,0 +1,18 @@
+name = "Iris Shaders"
+filename = "iris-mc1.19.2-1.4.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/5Ox2LQ1C/iris-mc1.19.2-1.4.3.jar"
+hash-format = "sha1"
+hash = "b63d3c66c18bd79078539ea5268456ef6e358c84"
+
+[update]
+[update.modrinth]
+mod-id = "YL57xq9U"
+version = "5Ox2LQ1C"
+
+[option]
+optional = true
+description = "Allows you to play with Optifine shaders on Sodium"
+default = true
