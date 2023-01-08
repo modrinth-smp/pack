@@ -258,6 +258,11 @@ hash = "fa5844242239c7228674022960e1506d19b062aa056ead17d5d52f1f9d5e6a57"
 metafile = true
 
 [[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "c8411b4fb17459c9433de7ce722a23e0a9b8600ee5d2b156e99d3d041e3ba86f"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "00960cdd63d16c9a2ca9f1e3a9c3aa79d789c0284fb19091ba4b8841a7f5def5"
 metafile = true
@@ -377,8 +382,28 @@ hash = "a20b14129f4a0ea0a2be6b378e6bdb003dd55556c516f78d0dd24bb2d9edc89d"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "eb6ad65bc55853f87bbd72085e690fd914318b94e3108bb6583b8da4363f480b"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "1191c0ed4c2be46db9814885dc1beb33d22a2175758ad0af8a5a53afe851d7c6"
+metafile = true
+
+[[files]]
+file = "mods/niceload.pw.toml"
+hash = "9638b4d155d3af277c6475ff5dbb50b8fcdb50106f5169491cdf1d05cc3f23f1"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
@@ -407,6 +432,21 @@ hash = "bfb2ed4cb4f501621eab3467dc6c6206525a414d0fe401a8f91f8aaca7232993"
 metafile = true
 
 [[files]]
+file = "mods/playerex.pw.toml"
+hash = "2632c2ce766ff44a8ed45a10239a6435ca10031b3a885d34f6c326d172e7dca8"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "02afa656e08ce408c1b541e60d9126b8bac35b55a26950547291ee8f54c1899d"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
@@ -414,6 +454,56 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "b39a29623977769f92afcebfdcfa95d71acb2d513b4611a9462c0964b2f30294"
+metafile = true
+
+[[files]]
+file = "mods/quickconnectbutton.pw.toml"
+hash = "62f6af6480f713e7f643c367a157597b3740f0fc3b9d4234adb391ecab236aaa"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
+metafile = true
+
+[[files]]
+file = "mods/rainglow.pw.toml"
+hash = "4e8d1c0e827fb476123ca710fcdfcca5649e5ab141e4096d7a066f9b89d7d893"
+metafile = true
+
+[[files]]
+file = "mods/rats-mischief.pw.toml"
+hash = "b0da1f56d9d037a5edb8b837bbf5a7dafb7679f42a9a2bd7865bbb2d4fad57b1"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/relicex.pw.toml"
+hash = "c856e48744e4db9e1c4861bc32d46b5326b946205aac0f583d169e7548e84a5c"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "9c4fd1635b7bff2b69551cdacc28464799774ce3da0c8490ce98f37125618020"
+metafile = true
+
+[[files]]
+file = "mods/sizeshiftingpotions.pw.toml"
+hash = "4089b257b2607198601115860626d595f72bd5a4faada9ae2606b9e981bcbb2c"
+metafile = true
+
+[[files]]
+file = "mods/sleep-warp.pw.toml"
+hash = "320c6865e322a7d6d8ec60bd2189132c52ee973af10ed255a8aac7cc26ae170e"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
 
 [[files]]
