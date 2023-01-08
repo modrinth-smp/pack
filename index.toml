@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
+hash = "3f052faaaa0d0caafe0e66129940fcd580cd0252791c47e3b3c451571f6c77d8"
 metafile = true
 
 [[files]]
@@ -345,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/literal-sky-block-fabric.pw.toml"
+hash = "d69196ced8829617dd2b7315b946f926c019a8fdb0fd558928396b4e0e5fedab"
 metafile = true
 
 [[files]]
