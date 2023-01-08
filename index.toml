@@ -353,6 +353,26 @@ hash = "d69196ced8829617dd2b7315b946f926c019a8fdb0fd558928396b4e0e5fedab"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "10adb8c5a5aab921443515680dd58a1369e1209ec4966fde0759d64f777f7525"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+metafile = true
+
+[[files]]
+file = "mods/mermod-fabric.pw.toml"
+hash = "b4e6e6966ab253aaa1a89d383aa118888f5838252aba7c0efac08986ef1db941"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "eb6ad65bc55853f87bbd72085e690fd914318b94e3108bb6583b8da4363f480b"
 metafile = true
