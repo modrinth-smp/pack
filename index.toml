@@ -218,6 +218,11 @@ hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
 
 [[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "1516a9f13de49f2051eedfed8086d0e69ff9ee674a525ed133ba881c71d1cacb"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "dd0e913b88ea98ebd3c986af171706b3cb8502a37271b3b4a39744071029a54d"
 metafile = true
@@ -377,6 +382,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/liminal-plus.pw.toml"
+hash = "461b801db95235865c5bf04f0a1ef61bcb82fc3a5abb57aa61b299c5a34f3a6b"
+metafile = true
+
+[[files]]
 file = "mods/literal-sky-block-fabric.pw.toml"
 hash = "d69196ced8829617dd2b7315b946f926c019a8fdb0fd558928396b4e0e5fedab"
 metafile = true
@@ -526,6 +536,11 @@ hash = "c856e48744e4db9e1c4861bc32d46b5326b946205aac0f583d169e7548e84a5c"
 metafile = true
 
 [[files]]
+file = "mods/satin-api.pw.toml"
+hash = "1f43e5bec0099a7e62fdcf6dabbba31d8173654451392f69ca21a33d107781cc"
+metafile = true
+
+[[files]]
 file = "mods/servertick.pw.toml"
 hash = "4ad1f4d5630879670b010035610eb35e8fb3eec45b1d908f6a68b4a91ecbe843"
 metafile = true
@@ -586,6 +601,11 @@ hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
 
 [[files]]
+file = "mods/the-corners.pw.toml"
+hash = "1bf75722c4e4e064261441727c911fd7121fdcec1e9650d8ed03e92430d192bb"
+metafile = true
+
+[[files]]
 file = "mods/things.pw.toml"
 hash = "6b056c1e695fd8d088c8a373e071953815d7b52fe1087baa44565d3093b111e1"
 metafile = true
@@ -613,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "13edb6ded702c85072a99ebe5f36de5d36522a50c1360e01c2a88d2d46a6616f"
+metafile = true
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "e49c3bcff346b02ee5f9ae0e25f3804d778cc0fdc6c84b2b2c41a00a692a2444"
 metafile = true
 
 [[files]]
