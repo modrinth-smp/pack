@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "c8411b4fb17459c9433de7ce722a23e0a9b8600ee5d2b156e99d3d041e3ba86f"
+hash = "6ac3d99d1f4d274bb13d92e36538f4c108b6e2f0ede7835d5f8340f2bb04d46c"
 metafile = true
 
 [[files]]
@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/niceload.pw.toml"
-hash = "9638b4d155d3af277c6475ff5dbb50b8fcdb50106f5169491cdf1d05cc3f23f1"
+hash = "c90bf0b815b1e8ee151e531838d0b435005cd35485fb6dc6017e6136f6a40930"
 metafile = true
 
 [[files]]
@@ -478,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+hash = "400adf83e9c2e73eeb2c71807f18d631b0655852e910cd0f6ff437424e52b1bb"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9c4fd1635b7bff2b69551cdacc28464799774ce3da0c8490ce98f37125618020"
+hash = "3d0f720430c5925f34d52ee314d6e273a10e1c65205b7c10c1118ff7db2964f4"
 metafile = true
 
 [[files]]
@@ -503,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
+hash = "e74096c547dbdcdb5ea22d75c60e5f3a526f8226026e5d6b99f3a97aeb9d1214"
 metafile = true
 
 [[files]]
