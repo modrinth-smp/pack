@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-rep-system.pw.toml"
-hash = "c0617e1dd8e9a9269e2703ecea0bdc925bd9ae13dff83006122ddd4617265caa"
+hash = "b2f8450260b955b72e930998efdd2c56d719b883f2729aac8ae42f9ca4cf2f11"
 metafile = true
 
 [[files]]
