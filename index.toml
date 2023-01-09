@@ -223,6 +223,11 @@ hash = "1516a9f13de49f2051eedfed8086d0e69ff9ee674a525ed133ba881c71d1cacb"
 metafile = true
 
 [[files]]
+file = "mods/disableinsecurechattoast.pw.toml"
+hash = "8b2e15f512c397937d43d6df8d027ce681bf664a1f850ec20dde0d7f2d555bcd"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "dd0e913b88ea98ebd3c986af171706b3cb8502a37271b3b4a39744071029a54d"
 metafile = true
@@ -448,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/niceload.pw.toml"
 hash = "c90bf0b815b1e8ee151e531838d0b435005cd35485fb6dc6017e6136f6a40930"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
