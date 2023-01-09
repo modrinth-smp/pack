@@ -377,6 +377,11 @@ hash = "b4e6e6966ab253aaa1a89d383aa118888f5838252aba7c0efac08986ef1db941"
 metafile = true
 
 [[files]]
+file = "mods/mine11lib.pw.toml"
+hash = "23ffaad81611e265dcc8472290d5d7a89c2e1d2622b0330d75556a32e67c0b04"
+metafile = true
+
+[[files]]
 file = "mods/mob-hat.pw.toml"
 hash = "a20b14129f4a0ea0a2be6b378e6bdb003dd55556c516f78d0dd24bb2d9edc89d"
 metafile = true
@@ -512,6 +517,31 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
+metafile = true
+
+[[files]]
+file = "mods/spellbound-enchantments.pw.toml"
+hash = "7a2b44ca2599273ab495832725c4fa3dbed0e08faac97c6cad5a4da5c6c461d1"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "b54a2d0cdb07a011d353462037ee68dfa2108767be8485c58f65fea4986cb934"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
@@ -542,6 +572,41 @@ hash = "7469851e3fed3e9176d431c4da39acb4d0d815f0f1e2341d8621d6c96294a697"
 metafile = true
 
 [[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "13edb6ded702c85072a99ebe5f36de5d36522a50c1360e01c2a88d2d46a6616f"
+metafile = true
+
+[[files]]
+file = "mods/woof.pw.toml"
+hash = "bd911594a5835278b11c0a0c68cb2145b153ec9a726982a0d10407f75431bad4"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "b003caafe717cbbf9ba2a7539bdd361e4d7e58e0d9602bd81a41387691b7e70c"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "a50adf5dc08750b87e7681fb99637e39660e61befc795793023f4024ec7eeec3"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "dcfc9996df859731e571721ffef8006ade14f3c2a2f26c716beca15575eb3ce6"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d6126b71de887bf0b23a4a064b5f9ebb2f4848533f3b098703c3917ba63e5c69"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "455bd61468b04ec66000901d5c112a97dabd3343f9e6d96ad3c148726e7c5bf8"
 metafile = true
