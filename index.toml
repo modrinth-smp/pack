@@ -98,6 +98,11 @@ hash = "b46af2de1693fcaf892fd6dd1734915a9a36549093144b724e940cce5936e17c"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "4f64efbeb252e3b600aaf5d58e4a7db02790dd9d3609595f7ede779b988862ab"
+metafile = true
+
+[[files]]
 file = "mods/backpackmod.pw.toml"
 hash = "6a521e6df498ca624215a76e8423961b28f9cd6c1124c8798ea7a78842244606"
 metafile = true
@@ -163,6 +168,11 @@ hash = "4b9046c17c02c1a35f6fe2747bdb74d219f3b9b02a2e8fdc9c1dfc5008f7c422"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
+metafile = true
+
+[[files]]
 file = "mods/cleancut.pw.toml"
 hash = "7ea37e2cbe755149aaaf569fd9999541fc766c6057fc7a062a715af51b387b93"
 metafile = true
@@ -195,6 +205,11 @@ metafile = true
 [[files]]
 file = "mods/data-attributes.pw.toml"
 hash = "9d272daefdc59f0a52348c7c5c7660541316b61b0c9f795abe741c692af5dda8"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "3c2b9753af947a22db085b3a7c0ea6e8a2eef4aeed9540a1cae44e774cf83c3b"
 metafile = true
 
 [[files]]
@@ -253,6 +268,11 @@ hash = "b453a280fcd953cf3b0a92145417aa8b3e6ef3b20641a310965c887bddfe1b8c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-rep-system.pw.toml"
+hash = "c0617e1dd8e9a9269e2703ecea0bdc925bd9ae13dff83006122ddd4617265caa"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "fa5844242239c7228674022960e1506d19b062aa056ead17d5d52f1f9d5e6a57"
 metafile = true
@@ -260,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "6ac3d99d1f4d274bb13d92e36538f4c108b6e2f0ede7835d5f8340f2bb04d46c"
+metafile = true
+
+[[files]]
+file = "mods/fastback.pw.toml"
+hash = "83cdaa833826cfdf0cfd0b41637899d534da478ce9545c704f1bb298336a69cb"
 metafile = true
 
 [[files]]
@@ -367,6 +392,11 @@ hash = "10adb8c5a5aab921443515680dd58a1369e1209ec4966fde0759d64f777f7525"
 metafile = true
 
 [[files]]
+file = "mods/mclogs.pw.toml"
+hash = "04cc7576acd1459ab9b1df3b143106f44ae9c5df3679769038ca83390c5f4fd5"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
@@ -390,6 +420,10 @@ metafile = true
 file = "mods/modmenu.pw.toml"
 hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
+
+[[files]]
+file = "mods/modrinth-smp-1.0-SNAPSHOT.jar"
+hash = "fde5ff175bcae37d0b5bc293c9a0c8a57db03ce26f3ddb0a7e4118addff26c25"
 
 [[files]]
 file = "mods/moonlight.pw.toml"
@@ -492,6 +526,11 @@ hash = "c856e48744e4db9e1c4861bc32d46b5326b946205aac0f583d169e7548e84a5c"
 metafile = true
 
 [[files]]
+file = "mods/servertick.pw.toml"
+hash = "4ad1f4d5630879670b010035610eb35e8fb3eec45b1d908f6a68b4a91ecbe843"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "3d0f720430c5925f34d52ee314d6e273a10e1c65205b7c10c1118ff7db2964f4"
 metafile = true
@@ -579,6 +618,16 @@ metafile = true
 [[files]]
 file = "mods/woof.pw.toml"
 hash = "bd911594a5835278b11c0a0c68cb2145b153ec9a726982a0d10407f75431bad4"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
 metafile = true
 
 [[files]]
